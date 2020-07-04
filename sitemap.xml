@@ -1,23 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/amy-erica-smith/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -28,7 +25,6 @@
   <url>
     <loc>/publication_types/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -39,25 +35,21 @@
   <url>
     <loc>/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/steven-e.-finkel/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/anibal-perez-linan/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/mitchell-a.-seligson/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -68,7 +60,6 @@
   <url>
     <loc>/authors/dinorah-azpuru/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -84,7 +75,6 @@
   <url>
     <loc>/authors/howard-r.-ernst/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -100,7 +90,6 @@
   <url>
     <loc>/authors/christopher-a.-sabatini/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -111,13 +100,11 @@
   <url>
     <loc>/authors/gwendolyn-g.-bevis/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/steve-e.-finkel/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -128,13 +115,11 @@
   <url>
     <loc>/authors/edward-n.-muller/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/john-g.-geer/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -145,7 +130,6 @@
   <url>
     <loc>/publication_types/5/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -161,7 +145,6 @@
   <url>
     <loc>/authors/peter-r.-schrott/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -177,19 +160,16 @@
   <url>
     <loc>/authors/henry-a.-dietz/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/karl-dieter-opp/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/marian-j.-borg/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -205,7 +185,6 @@
   <url>
     <loc>/authors/thomas-m.-guterbock/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -234,7 +213,6 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -247,7 +225,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
