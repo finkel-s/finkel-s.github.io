@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finkel, S. E. | SF</title>
+    <link>/authors/finkel-s.-e./</link>
+      <atom:link href="/authors/finkel-s.-e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Finkel, S. E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Finkel, S. E.</title>
+      <link>/authors/finkel-s.-e./</link>
+    </image>
+    
+    <item>
+      <title>Community Violence and Support for Violent Extremism: Evidence From the Sahel</title>
+      <link>/publication/finkel-ps-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-ps-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reassessing Ideological Bias in Campaign Participation</title>
+      <link>/publication/finkel-reassessing-1986/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-reassessing-1986/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

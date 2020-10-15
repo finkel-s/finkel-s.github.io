@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John McCauley | SF</title>
+    <link>/authors/john-mccauley/</link>
+      <atom:link href="/authors/john-mccauley/index.xml" rel="self" type="application/rss+xml" />
+    <description>John McCauley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>John McCauley</title>
+      <link>/authors/john-mccauley/</link>
+    </image>
+    
+    <item>
+      <title>The grapevine effect in sensitive data collection: examining response patterns in support for violent extremism</title>
+      <link>/publication/finkel-grapevine-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-grapevine-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socialist Values and the Development of Democratic Support in the Former East Germany</title>
+      <link>/publication/finkel-socialistvalues-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-socialistvalues-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

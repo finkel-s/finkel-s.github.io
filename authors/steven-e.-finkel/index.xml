@@ -5,12 +5,20 @@
     <link>/authors/steven-e.-finkel/</link>
       <atom:link href="/authors/steven-e.-finkel/index.xml" rel="self" type="application/rss+xml" />
     <description>Steven E. Finkel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Steven E. Finkel</title>
       <link>/authors/steven-e.-finkel/</link>
     </image>
+    
+    <item>
+      <title>Crime Victimization Increases Turnout: Evidence from Individual-Level Administrative Panel Data</title>
+      <link>/publication/finkel-crime-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-crime-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Civic education, political discussion, and the social transmission of democratic knowledge and values in a new democracy: Kenya 2002</title>
@@ -101,10 +109,26 @@
     </item>
     
     <item>
+      <title>The Aggregate Impact of Explanatory Variables in Logit and Linear Probability Models</title>
+      <link>/publication/finkel-aggregateimpact-1992/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-aggregateimpact-1992/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Discontent and the expected utility of rebellion: The case of Peru</title>
       <link>/publication/muller-discontent-1991/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
       <guid>/publication/muller-discontent-1991/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is there a Marriage Gap in Politics?</title>
+      <link>/publication/finkel-marriage-1987/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-marriage-1987/</guid>
       <description></description>
     </item>
     
@@ -121,6 +145,14 @@
       <link>/publication/finkel-race-interviewer-1991/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
       <guid>/publication/finkel-race-interviewer-1991/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effects of the 1980 and 1984 Campaigns on Mass Ideological Orientation: Testing the Salience Hypothesis</title>
+      <link>/publication/finkel-salience-1989/</link>
+      <pubDate>Sat, 09 Sep 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-salience-1989/</guid>
       <description></description>
     </item>
     
@@ -145,6 +177,14 @@
       <link>/publication/finkel-effects-1987/</link>
       <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
       <guid>/publication/finkel-effects-1987/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Party identification and Party enrollment: The Difference and the Consequences</title>
+      <link>/publication/finkel-enrollment-1985/</link>
+      <pubDate>Fri, 01 Mar 1985 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-enrollment-1985/</guid>
       <description></description>
     </item>
     

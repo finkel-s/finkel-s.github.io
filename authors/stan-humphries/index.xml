@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stan Humphries | SF</title>
+    <link>/authors/stan-humphries/</link>
+      <atom:link href="/authors/stan-humphries/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stan Humphries</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Stan Humphries</title>
+      <link>/authors/stan-humphries/</link>
+    </image>
+    
+    <item>
+      <title>Socialist Values and the Development of Democratic Support in the Former East Germany</title>
+      <link>/publication/finkel-socialistvalues-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-socialistvalues-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul William Kingston | SF</title>
+    <link>/authors/paul-william-kingston/</link>
+      <atom:link href="/authors/paul-william-kingston/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul William Kingston</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 1991 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Paul William Kingston</title>
+      <link>/authors/paul-william-kingston/</link>
+    </image>
+    
+    <item>
+      <title>Is there a Marriage Gap in Politics?</title>
+      <link>/publication/finkel-marriage-1987/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-marriage-1987/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

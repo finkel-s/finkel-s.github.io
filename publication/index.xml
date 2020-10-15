@@ -5,12 +5,60 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>The Supply and Demand Model of Civic Education: Evidence from A Field Experiment in the Democratic Republic of Congo</title>
+      <link>/publication/finkel-lim-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-lim-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community Violence and Support for Violent Extremism: Evidence From the Sahel</title>
+      <link>/publication/finkel-ps-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-ps-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crime Victimization Increases Turnout: Evidence from Individual-Level Administrative Panel Data</title>
+      <link>/publication/finkel-crime-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-crime-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The grapevine effect in sensitive data collection: examining response patterns in support for violent extremism</title>
+      <link>/publication/finkel-grapevine-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-grapevine-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Analysis With Panel Data</title>
+      <link>/publication/finkel-sage-2020/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-sage-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Models of Individual Change in Psychotherapy Process Research</title>
+      <link>/publication/finkel-dm-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-dm-2017/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Civic education, political discussion, and the social transmission of democratic knowledge and values in a new democracy: Kenya 2002</title>
@@ -57,6 +105,14 @@
       <link>/publication/finkel-civic-2002/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>/publication/finkel-civic-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socialist Values and the Development of Democratic Support in the Former East Germany</title>
+      <link>/publication/finkel-socialistvalues-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-socialistvalues-2001/</guid>
       <description></description>
     </item>
     
@@ -109,10 +165,26 @@
     </item>
     
     <item>
+      <title>The Aggregate Impact of Explanatory Variables in Logit and Linear Probability Models</title>
+      <link>/publication/finkel-aggregateimpact-1992/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-aggregateimpact-1992/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Discontent and the expected utility of rebellion: The case of Peru</title>
       <link>/publication/muller-discontent-1991/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
       <guid>/publication/muller-discontent-1991/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is there a Marriage Gap in Politics?</title>
+      <link>/publication/finkel-marriage-1987/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-marriage-1987/</guid>
       <description></description>
     </item>
     
@@ -129,6 +201,14 @@
       <link>/publication/finkel-race-interviewer-1991/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
       <guid>/publication/finkel-race-interviewer-1991/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effects of the 1980 and 1984 Campaigns on Mass Ideological Orientation: Testing the Salience Hypothesis</title>
+      <link>/publication/finkel-salience-1989/</link>
+      <pubDate>Sat, 09 Sep 1989 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-salience-1989/</guid>
       <description></description>
     </item>
     
@@ -157,10 +237,34 @@
     </item>
     
     <item>
+      <title>Reassessing Ideological Bias in Campaign Participation</title>
+      <link>/publication/finkel-reassessing-1986/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-reassessing-1986/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Party identification and Party enrollment: The Difference and the Consequences</title>
+      <link>/publication/finkel-enrollment-1985/</link>
+      <pubDate>Fri, 01 Mar 1985 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-enrollment-1985/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reciprocal effects of participation and political efficacy: A panel analysis</title>
       <link>/publication/finkel-reciprocal-1985/</link>
       <pubDate>Tue, 01 Jan 1985 00:00:00 +0000</pubDate>
       <guid>/publication/finkel-reciprocal-1985/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Candidates and Issues in the 1980 Campaign: The ideological Connection</title>
+      <link>/publication/finkel-candidates-1980/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-candidates-1980/</guid>
       <description></description>
     </item>
     

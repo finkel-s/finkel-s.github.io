@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helment Norpoth | SF</title>
+    <link>/authors/helment-norpoth/</link>
+      <atom:link href="/authors/helment-norpoth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Helment Norpoth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 1984 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Helment Norpoth</title>
+      <link>/authors/helment-norpoth/</link>
+    </image>
+    
+    <item>
+      <title>Candidates and Issues in the 1980 Campaign: The ideological Connection</title>
+      <link>/publication/finkel-candidates-1980/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-candidates-1980/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

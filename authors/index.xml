@@ -5,12 +5,164 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Finek,S.E</title>
+      <link>/authors/fineks.e/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/fineks.e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.Lim</title>
+      <link>/authors/j.lim/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/j.lim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and C. Belasco</title>
+      <link>/authors/and-c.-belasco/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/and-c.-belasco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher Belasco</title>
+      <link>/authors/christopher-belasco/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/christopher-belasco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finkel, S. E.</title>
+      <link>/authors/finkel-s.-e./</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/finkel-s.-e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. McCauley</title>
+      <link>/authors/j.-mccauley/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-mccauley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John McCauley</title>
+      <link>/authors/john-mccauley/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/john-mccauley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kasper M. Hansen</title>
+      <link>/authors/kasper-m.-hansen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kasper-m.-hansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kim Mannemar Sønderskov</title>
+      <link>/authors/kim-mannemar-s%C3%B8nderskov/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kim-mannemar-s%C3%B8nderskov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Neureiter</title>
+      <link>/authors/m.-neureiter/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-neureiter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Neureiter</title>
+      <link>/authors/michael-neureiter/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-neureiter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Thisted Dinesen</title>
+      <link>/authors/peter-thisted-dinesen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-thisted-dinesen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven E. Finkel</title>
+      <link>/authors/steven-e.-finkel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/steven-e.-finkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven Finkel</title>
+      <link>/authors/steven-finkel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/steven-finkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.E.Finkel</title>
+      <link>/authors/s.e.finkel/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s.e.finkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fredrik Falkenström</title>
+      <link>/authors/fredrik-falkenstrom/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/fredrik-falkenstrom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julian A Rubel</title>
+      <link>/authors/julian-a-rubel/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/julian-a-rubel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rolf Holmqvist</title>
+      <link>/authors/rolf-holmqvist/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/rolf-holmqvist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rolf Sandell</title>
+      <link>/authors/rolf-sandell/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/rolf-sandell/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Amy Erica Smith</title>
@@ -21,15 +173,7 @@
     </item>
     
     <item>
-      <title>Steven E. Finkel</title>
-      <link>/authors/steven-e.-finkel/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/steven-e.-finkel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aníbal Pérez-Liñán</title>
+      <title>Anibal Perez-Linan</title>
       <link>/authors/anibal-perez-linan/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>/authors/anibal-perez-linan/</guid>
@@ -57,6 +201,22 @@
       <link>/authors/howard-r.-ernst/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>/authors/howard-r.-ernst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karl-Dieter Opp</title>
+      <link>/authors/karl-dieter-opp/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/authors/karl-dieter-opp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stan Humphries</title>
+      <link>/authors/stan-humphries/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/authors/stan-humphries/</guid>
       <description></description>
     </item>
     
@@ -109,18 +269,18 @@
     </item>
     
     <item>
-      <title>Henry A. Dietz</title>
-      <link>/authors/henry-a.-dietz/</link>
-      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>/authors/henry-a.-dietz/</guid>
+      <title>Charles E. Denk</title>
+      <link>/authors/charles-e.-denk/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>/authors/charles-e.-denk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Karl-Dieter Opp</title>
-      <link>/authors/karl-dieter-opp/</link>
+      <title>Henry A. Dietz</title>
+      <link>/authors/henry-a.-dietz/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>/authors/karl-dieter-opp/</guid>
+      <guid>/authors/henry-a.-dietz/</guid>
       <description></description>
     </item>
     
@@ -133,10 +293,42 @@
     </item>
     
     <item>
+      <title>Paul William Kingston</title>
+      <link>/authors/paul-william-kingston/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-william-kingston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Thomas M. Guterbock</title>
       <link>/authors/thomas-m.-guterbock/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
       <guid>/authors/thomas-m.-guterbock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gregory Trevor</title>
+      <link>/authors/gregory-trevor/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      <guid>/authors/gregory-trevor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Howard A. Scarrow</title>
+      <link>/authors/howard-a.-scarrow/</link>
+      <pubDate>Fri, 01 Mar 1985 00:00:00 +0000</pubDate>
+      <guid>/authors/howard-a.-scarrow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helment Norpoth</title>
+      <link>/authors/helment-norpoth/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>/authors/helment-norpoth/</guid>
       <description></description>
     </item>
     

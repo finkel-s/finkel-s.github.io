@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles E. Denk | SF</title>
+    <link>/authors/charles-e.-denk/</link>
+      <atom:link href="/authors/charles-e.-denk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles E. Denk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1992 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Charles E. Denk</title>
+      <link>/authors/charles-e.-denk/</link>
+    </image>
+    
+    <item>
+      <title>The Aggregate Impact of Explanatory Variables in Logit and Linear Probability Models</title>
+      <link>/publication/finkel-aggregateimpact-1992/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-aggregateimpact-1992/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

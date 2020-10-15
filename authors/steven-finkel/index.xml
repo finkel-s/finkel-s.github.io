@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven Finkel | SF</title>
+    <link>/authors/steven-finkel/</link>
+      <atom:link href="/authors/steven-finkel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steven Finkel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Steven Finkel</title>
+      <link>/authors/steven-finkel/</link>
+    </image>
+    
+    <item>
+      <title>The grapevine effect in sensitive data collection: examining response patterns in support for violent extremism</title>
+      <link>/publication/finkel-grapevine-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-grapevine-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Models of Individual Change in Psychotherapy Process Research</title>
+      <link>/publication/finkel-dm-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-dm-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Candidates and Issues in the 1980 Campaign: The ideological Connection</title>
+      <link>/publication/finkel-candidates-1980/</link>
+      <pubDate>Sun, 01 Jan 1984 00:00:00 +0000</pubDate>
+      <guid>/publication/finkel-candidates-1980/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
