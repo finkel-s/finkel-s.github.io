@@ -5,12 +5,36 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Finkel,S.E</title>
+      <link>/authors/finkels.e/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/finkels.e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neundorf,Ana</title>
+      <link>/authors/neundorfana/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/neundorfana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rascón Ramírez, Ericka</title>
+      <link>/authors/rascon-ramirez-ericka/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/rascon-ramirez-ericka/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>J.Lim</title>
