@@ -1,0 +1,23 @@
+---
+title: "The Aggregate Impact of Explanatory Variables in Logit and Linear Probability Models"
+author: ["Denk, Charles E.", "Steven E. Finkel"]
+date: 1992-08
+publication: "American Journal of Political Science"
+categories:
+  - '<a href="papers/denk_finkel_aggregateimpact_1992.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.2307/2111591" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+This paper presents methods for computing aggregate change in probabilities of a binary dependent variable from changes in distributions of independent variables in logit and linear probability models. We develop a measure for the logit model based on a Taylor series polynomial expansion that solves the problems inherent in the nonlinearity and nonadditivity of the logit specification. The method can be used to make out-of-sample predictions based on real or hypothetical changes in one or more independent variables and may also be used to assess the relative "importance" of different independent variables by computing the change in dependent probabilities accounted for by each variable. The measure is in the same spirit as Achen's (1982) "level importance" measure for linear models and thus fills an important gap in logit regression analysis. We show, on the basis of simulations and controlled validation in an empirical example, that the aggregate logit impact measure can produce numerical results that differ substantially from the equivalent measure for linear probability models. We provide guidance for future research on the detailed application of the logit method and the criteria for choice of the logit versus the linear aggregate impact measures.
+:::
+
+[Download PDF](papers/denk_finkel_aggregateimpact_1992.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.2307/2111591){.btn .btn-outline-success target="_blank"}

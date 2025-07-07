@@ -1,0 +1,23 @@
+---
+title: "Personal Influence, Collective Rationality, and Mass Political Action"
+author: ["Finkel, Steven E.", "Edward N. Muller", "Karl-Dieter Opp"]
+date: 1989-09
+publication: "American Political Science Review"
+categories:
+  - '<a href="papers/finkel_et_al_personalinfluence_1989.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.2307/1962065" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+We propose two models to explain why individuals participate in collective political action—a personal influence model and a collective rationality model. Each model overcomes the free-rider problem posed by conventional rational choice theory and left unresolved in previous research. The models are tested for legal and illegal protest behaviors, using data from a national sample and two samples of protest-prone communities in the Federal Republic of Germany. The personal influence model is supported for both forms of participation, while the collective rationality model is supported for legal protest. We discuss implications of the results for grievance and rational choice theories of collective political action.
+:::
+
+[Download PDF](papers/finkel_et_al_personalinfluence_1989.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.2307/1962065){.btn .btn-outline-success target="_blank"}

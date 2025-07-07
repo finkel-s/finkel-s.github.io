@@ -1,0 +1,23 @@
+---
+title: "Civic Education and the Mobilization of Political Participation in Developing Democracies"
+author: ["Finkel, Steven E."]
+date: 2003-01-23
+publication: "Journal of Politics"
+categories:
+  - '<a href="papers/finkel_civiceducationmobilization_2003.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.1111/1468-2508.00160" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+This article examines the effect of adult civic education programs on political participation in two developing democracies, the Dominican Republic and South Africa. I first develop hypotheses about the effects of civic education on participation from theories of political culture and recent work on recruitment and group mobilization. Using survey data collected on participants in numerous civic education programs as well as control groups in both countries, I then show that civic education has significant and substantively meaningful effects on local–level political participation in four of the seven programs studied in South Africa and the Dominican Republic and that the results hold after controlling for potential biases related to the individual’s self–selection into the programs. The effects of civic education on participation are largely conditional in nature, dependent on the frequency and nature of the civic education “treatment,” and the individual’s store of prior political and participatory resources. The results suggest that civic education and other group mobilization processes are highly complementary in both countries; civic education training stimulates individual political behavior in much the same way as does participation in other kinds of secondary group activities.
+:::
+
+[Download PDF](papers/finkel_civiceducationmobilization_2003.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.1111/1468-2508.00160){.btn .btn-outline-success target="_blank"}

@@ -1,0 +1,22 @@
+---
+title: "Where Terror Lies: Social Desirability Bias and Violent Extremism in the Sahel"
+author: ["Finkel, Steven E.", "John F. McCauley", "Michael Neureiter", "Christopher A. Belasco"]
+date: 2021-11-04
+publication: "Terrorism and Political Violence"
+categories:
+  - '<a href="https://doi-org.pitt.idm.oclc.org/10.1080/09546553.2021.1987893" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published in {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Researchers have commonly treated misrepresentations in survey responses as an impediment to the accurate measurement of a variable or construct of substantive importance. This study builds on that approach and considers whether misreporting bias regarding support for violent extremism—both under- and over-reporting—may then have consequences for how terrorist violence itself unfolds. Using data from nearly 4,000 respondents in thirty-five communes in Burkina Faso, Chad, and Niger collected just prior to a recent wave of terrorist attacks, we find that communes where individuals under-report their true support for violent extremism—as measured with unobtrusive experimental methods—have a greater probability of experiencing subsequent Islamist attacks, controlling for socio-demographic characteristics of the commune, country-level proximity effects, and other time-varying factors. The findings raise important considerations regarding the measurement of extremist support, and they suggest a new tool for identifying communities potentially susceptible to terrorist violence.
+:::
+
+[View at Journal Website](https://doi-org.pitt.idm.oclc.org/10.1080/09546553.2021.1987893){.btn .btn-outline-success target="_blank"}

@@ -1,0 +1,22 @@
+---
+title: "The 2005 Presidential and 2004 Parliamentary Elections in Sri Lanka"
+author: ["Mishler, William", "Steven E. Finkel", "Pradeep Peiris"]
+date: 2006-06-06
+publication: "Electoral Studies"
+categories:
+  - '<a href="https://doi.org/10.1016/j.electstud.2006.03.005" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Prime Minister Mahinda Rajapakse of the United People’s Freedom Alliance (UPFA) was elected to a six-year term as President of the Democratic Socialist Republic of Sri Lanka on 17 November 2005. He won 50.3% of the popular vote, as against 49.4% for former Prime Minister Ranil Wickremesinghe of the United National Party (UNP). Eleven other candidates divided the remaining 1.3% of the vote. The winning margin was only about 180,000 votes out of more than 9.5 million ballots cast. Turnout in the election was 73.7%, but varied widely by ethnic group and region. Ethnic minority Tamil—and to a lesser degree, Muslim—turnout was depressed by a variety of factors in the Northern and Eastern Provinces, where support for Wickremesinghe and the UNP was especially strong. President Rajapakse succeeded President Chandrika Kumaratunga, also of the UPFA, who served the constitutional limit of two terms.
+:::
+
+[View at Journal Website](https://doi.org/10.1016/j.electstud.2006.03.005){.btn .btn-outline-success target="_blank"}

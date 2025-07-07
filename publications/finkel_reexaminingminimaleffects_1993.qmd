@@ -1,0 +1,23 @@
+---
+title: 'Reexamining the "Minimal Effects" Model in Recent Presidential Campaigns'
+author: ["Finkel, Steven E."]
+date: 1993-02
+publication: "The Journal of Politics"
+categories:
+  - '<a href="papers/finkel_reexaminingminimaleffects_1993.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.2307/2132225" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Although much recent work suggests that contemporary presidential campaigns have more powerful electoral effects than were seen in previous decades, there has been little research that examines the actual effect of recent campaigns on individual vote choice. Using the 1980 NES panel study, I show that the overwhelming majority of individual votes can be accounted for from attitudes such as party identification and presidential approval that are measured before the political conventions, and that changes in orientations during the campaign had limited effects on individual vote choice and negligible consequences for the electoral outcome. Moreover, models derived from the 1980 panel data can predict with a great deal of accuracy the aggregate outcomes of the 1984 and 1988 presidential contests. I argue that the results support an "activation" model of campaign effects in recent elections: rather than simply reinforcing individuals' preexisting vote intentions, the campaigns served mainly to activate existing political predispositions and make them electorally relevant. At the same time, the results show that campaigns have the potential to exert larger electoral effects, but in recent elections they have not done so.
+:::
+
+[Download PDF](papers/finkel_reexaminingminimaleffects_1993.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.2307/2132225){.btn .btn-outline-success target="_blank"}

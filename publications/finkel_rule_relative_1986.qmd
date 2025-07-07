@@ -1,0 +1,12 @@
+---
+title: "Relative Deprivation and Related Psychological Theories of Civil Violence: A Critical Review"
+author: ["Steven E. Finkel", "James B. Rule"]
+date: 1986-08-01
+publication: "JAI Press"
+
+format:
+  html:
+    toc: false
+---
+
+In "Research in Social Movements, Conflicts and Change: A Research Annual: 1986", edited by Kurt Lang and Gladys Lang. Published by {{< meta publication >}}.

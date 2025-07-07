@@ -1,0 +1,22 @@
+---
+title: "Adult Civic Education and the Development of Democratic Political Culture: Evidence from Emerging Democracies"
+author: ["Finkel, Steven E."]
+date: 2011-05-16
+publication: "World Bank Publications"
+categories:
+  - '<a href="http://hdl.handle.net/10986/2296" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Chapter 21 in Accountability through Public Opinion: From Inertia to Public Action, edited by Sina Odugbemi and Taeku Lee. Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Summarizes two major efforts undertaken on behalf of the United States Agency for International Development (USAID) to evaluate the impact of adult civic education programs in emerging democracies. The first study, conducted between 1997 and 1999, assessed the effects of several different adult civic education programs in the Dominican Republic, Poland, and South Africa on individual participation in politics, and on orientations such as political tolerance, efficacy, and trust, considered essential components of democratic political culture. The second study, conducted between 2001 and 2003, assessed the effects of the National Civic Education Program (NCEP) in Kenya, a countrywide effort of coordinated civic education that aimed to promote democratic values, awareness, and engagement in politics during constitutional reform and preparation for national elections. The most important finding from the study is the consistent and relatively large effect of civic education training on local-level political participation. In all four countries, individuals who were exposed to civic education were significantly more active in local politics than individuals in the control groups.
+:::
+
+[View at Journal Website](http://hdl.handle.net/10986/2296){.btn .btn-outline-success target="_blank"}

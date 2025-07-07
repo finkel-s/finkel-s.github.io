@@ -1,0 +1,22 @@
+---
+title: "Campaign Effects on Voter Choice in the German Election of 1990"
+author: ["Finkel, Steven E.", "Peter R. Schrott"]
+date: 1995-07
+publication: "British Journal of Political Science"
+categories:
+  - '<a href="http://www.jstor.org/stable/194259" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Using national survey panel data collected in Germany during the 1990 Bundestag election campaign, we develop a model to assess the effect of the campaign on individual votes and the election outcome. We find that the dominant effects of the campaign on German voters, as in the Lazarsfeld et al. studies from the 1940s and in more recent US research, were the 'reinforcement' of earlier preferences and the 'activation' of latent vote dispositions based on fundamental individual attitudes such as party affiliation and left–right ideology. At the same time, the analysis shows that the number of campaign 'converts' (those who vote against their dispositions and prior preferences) was approximately 14 per cent of the electorate. The vote division among these individuals was overwhelmingly pro-government, suggesting that the 1990 German campaign altered a sufficient number of votes to turn what was an even contest, based on the electorate's initial political dispositions, into a solid government coalition victory.
+:::
+
+[View at Journal Website](http://www.jstor.org/stable/194259){.btn .btn-outline-success target="_blank"}

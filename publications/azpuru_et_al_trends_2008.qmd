@@ -1,0 +1,22 @@
+---
+title: "Trends in Democracy Assistance: What Has the United States Been Doing?"
+author: ["Azpuru, Dinorah", "Steven E. Finkel", "Aníbal Pérez-Liñán", "Mitchell A. Seligson"]
+date: 2008-04-03
+publication: "Journal of Democracy"
+categories:
+  - '<a href="https://muse.jhu.edu/article/235505" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Using a newly constructed dataset of all U.S. expenditures in foreign assistance channeled via the United States Agency for International Development (USAID) from 1990 through 2005, this essay traces the growth of global democracy assistance since the end of the Cold War. It shows that what had begun as a largely regional effort in Latin America in the late 1980s has grown into a world-wide effort, expanding in magnitude and diversity, branching out into areas such as “good governance” (essentially decentralization and the fight against corruption) that were given little attention in the early 1990s.
+:::
+
+[View at Journal Website](https://muse.jhu.edu/article/235505){.btn .btn-outline-success target="_blank"}

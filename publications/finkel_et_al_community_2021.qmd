@@ -1,0 +1,23 @@
+---
+title: "Community Violence and Support for Violent Extremism: Evidence From the Sahel"
+author: ["Finkel, Steven E.", "John F. McCauley", "Michael Neureiter", "Chris A. Belasco"]
+date: 2020-09-27
+publication: "Political Psychology"
+categories:
+  - '<a href="papers/finkel_et_al_community_2021.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.1111/pops.12692" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+This article examines the effects of exposure to communal violence on support for violent religious extremism. We argue that in communities with high levels of reported violence, individuals lose political and social trust, develop exclusionary attitudes towards outgroups, and find appeal in nonconventional, black-or-white religious teachings, all of which can promote support for extremist violence. Using survey data from over 17,000 respondents in 84 communes surveyed between 2013 and 2017 in Burkina Faso, Niger, and Chad, we find strong support for these predictions. More violent communities express substantially greater support for violent extremism, with an increase in exclusionary outgroup biases and a turn to fundamentalist religious views being the primary mechanisms explaining—and amplifying—the effect. The findings run counter to arguments suggesting that exposure to violence leads to "war weariness" or generates community resilience to extremism via prosocial behaviors.
+:::
+
+[Download PDF](papers/finkel_et_al_community_2021.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.1111/pops.12692){.btn .btn-outline-success target="_blank"}

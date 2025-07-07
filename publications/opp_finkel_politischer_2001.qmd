@@ -1,0 +1,22 @@
+---
+title: "Politischer Protest, Rationalität und Lebensstile. Eine empirische Überprüfung alternativer Erklärungsmodelle"
+author: ["Opp, Karl-Dieter", "Steven E. Finkel"]
+date: 2001-01-31
+publication: "Opladen: Leske + Budrich"
+categories:
+  - '<a href="https://doi.org/10.1007/978-3-322-99341-0_4" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+In "Politische Partizipation in der Bundesrepublik Deutschland: Empirische Befunde und theoretische Erklärungen", edited by Achim Koch, Martina Wasmer, and Peter Schmidt. Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Welches sind die Ursachen dafür, daß sich Personen an politischen Protestaktionen beteiligen? Trotz der kaum mehr zu überblickenden Literatur wird diese Frage unterschiedlich beantwortet.2 Eine mögliche Vorgehensweise zu ihrer Beantwortung besteht darin, daß man eine generelle Theorie anwendet und aus ihr Hypothesen über die Bedingungen für die Beteiligung an Protestaktionen ableitet. Dieser Weg soll hier beschritten werden. Unser Ausgangspunkt ist die Theorie kollektiven Handelns, wie sie von Mancur Olson (1965) formuliert wurde. Ausgehend von dieser Theorie haben wir eine Reihe von Hypothesen über die Ursachen politischen Protests entwickelt, die bereits in mehreren Untersuchungen überprüft wurden und die sich relativ gut bewährt haben. Unser Erklärungsmodell wurde bisher nie mittels einer so umfassenden repräsentativen Umfrage wie dem ALLBUS 1998 überprüft. Der ALLBUS enthält weiterhin eine Reihe neuer Operationalisierungen zentraler Variablen unseres Erklärungsmodells. Wir wollen deshalb dieses Modell mittels der Daten des ALLBUS 1998 erneut überprüfen.
+:::
+
+[View at Journal Website](https://doi.org/10.1007/978-3-322-99341-0_4){.btn .btn-outline-success target="_blank"}

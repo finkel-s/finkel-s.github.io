@@ -1,0 +1,16 @@
+---
+title: "Curriculum Vitae"
+format: 
+  html: 
+    page-layout: full
+title-block-banner: false
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/listing-default.css">
+resources:
+  - ../assets/listing-default.css
+---
+
+<br>
+
+<iframe src="files/Finkel.CV.6-2025.pdf" width="100%" height="800px" style="border: none;"></iframe>

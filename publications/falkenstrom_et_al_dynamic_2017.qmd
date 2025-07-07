@@ -1,0 +1,23 @@
+---
+title: "Dynamic Models of Individual Change in Psychotherapy Process Research"
+author: ["Falkenström, Fredrik", "Steven E. Finkel", "Rolf Sandell", "Julian A. Rubel", "Rolf Holmqvist"]
+date: 2017-06
+publication: "Journal of Consulting and Clinical Psychology"
+categories:
+  - '<a href="papers/falkenstrom_et_al_dynamic_2017.pdf" target="_blank">PDF</a>'
+  - '<a href="https://psycnet.apa.org/doi/10.1037/ccp0000203" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+There is a need for rigorous methods to study the mechanisms that lead to individual-level change (i.e., process-outcome research). We argue that panel data (i.e., longitudinal study of a number of individuals) methods have 3 major advantages for psychotherapy researchers: (1) enabling microanalytic study of psychotherapeutic processes in a clinically intuitive way, (2) modeling lagged associations over time to ensure direction of causality, and (3) isolating within-patient changes over time from between-patient differences, thereby protecting against confounding influences because of the effects of unobserved stable attributes of individuals. However, dynamic panel data methods present a complex set of analytical challenges. We focus on 2 particular issues: (1) how long-term trajectories in the variables of interest over the study period should be handled, and (2) how the use of a lagged dependent variable as a predictor in regression-based dynamic panel models induces endogeneity (i.e., violation of independence between predictor and model error term) that must be taken into account in order to appropriately isolate within- and between-person effects. Method: An example from a study of working alliance in psychotherapy in primary care in Sweden is used to illustrate some of these analytic decisions and their impact on parameter estimates. Results: Estimates were strongly influenced by the way linear trajectories were handled; that is, whether variables were “detrended” or not. Conclusions: The issue of when detrending should be done is discussed, and recommendations for research are provided.
+:::
+
+[Download PDF](papers/falkenstrom_et_al_dynamic_2017.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://psycnet.apa.org/doi/10.1037/ccp0000203){.btn .btn-outline-success target="_blank"}

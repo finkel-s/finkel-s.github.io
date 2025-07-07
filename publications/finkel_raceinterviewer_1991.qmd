@@ -1,0 +1,23 @@
+---
+title: "Race-of-Interviewer Effects in a Preelection Poll: Virginia 1989"
+author: ["Finkel, Steven E.", "Thomas M. Guterbock", "Marian J. Borg"]
+date: 1991-01-01
+publication: "The Public Opinion Quarterly"
+categories:
+  - '<a href="papers/finkel_raceinterviewer_1991.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.1086/269264" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+All published preelection surveys of the 1989 Virginia gubernatorial contest overestimated the vote share of the black candidate and eventual victor, Douglas Wilder. We offer a "social desirability" interpretation of the polls' inaccuracies and hypothesize that claiming support for Wilder was the socially desirable response for some whites, especially when the interviewer was black. We show a race-of-interviewer effect on the vote intention of white respondents of 8-11 percentage points in a preelection survey of Virginia voters. The effects were greatest among white Democrats and among whites who were more uncertain of their vote intention. We discuss the implications of these findings for race-of-interviewer research and for improving the accuracy of preelection forecasts in contests with black and white opposing candidates.
+:::
+
+[Download PDF](papers/finkel_raceinterviewer_1991.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.1086/269264){.btn .btn-outline-success target="_blank"}

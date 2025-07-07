@@ -1,0 +1,23 @@
+---
+title: "Discontent and the Expected Utility of Rebellion: The Case of Peru"
+author: ["Edward N. Muller", "Henry A. Dietz", "Steven E. Finkel"]
+date: 1991-12
+publication: "American Political Science Review"
+categories:
+  - '<a href="papers/muller_discontentexpectedutility_1991.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.2307/1963945" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Discontent theories of rebellion postulate that politicized discontent will have a strong independent effect on individuals' potential to participate in rebellious political action. Expected utility theories postulate that participation in rebellious action is motivated by expectation of reward and that discontent is relevant at most only insofar as individuals expect that collective action can be successful and that their participation is important to that end. We test these theories with data from a national sample and a sample of students at a protest-prone university in Peru, a country with significant objective conditions of discontent and a high incidence of rebellious political conflict. The results provide no evidence for the discontent models but strong support for the expected utility models. The potential for participation in rebellious political action proves to be a function primarily of discontent weighted by the expectancy of the action's success and the perceived importance of personal participation. Private social and normative rewards and costs also are relevant—but to a lesser extent—for the individual's calculation of the expected utility of participation.
+:::
+
+[Download PDF](papers/muller_discontentexpectedutility_1991.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.2307/1963945){.btn .btn-outline-success target="_blank"}

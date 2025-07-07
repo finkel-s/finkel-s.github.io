@@ -1,0 +1,18 @@
+---
+title: "Political Tolerance and Civic Education in Developing Democracies"
+author: ["Finkel, Steven E."]
+date: 2006-04-03
+publication: "Lexington Books"
+
+format:
+  html:
+    toc: false
+---
+
+In Tolerance in the Twenty-First Century: Prospects and Challenges, edited by Gerson Moreno-Riaño. Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Tolerance in the 21st Century investigates some of the key philosophical and practical dilemmas surrounding the implementation and realization of tolerance in the 21st century. In particular, this well thought-out volume investigates the political, social, moral, religious, global, and philosophical issues integral to discussions of tolerance in our current era. The work delves into new areas assessing the problems posed for tolerance by such factors as identity, war, community, the Internet, and gender. 
+:::

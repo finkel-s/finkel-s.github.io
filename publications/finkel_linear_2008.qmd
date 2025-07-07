@@ -1,0 +1,20 @@
+---
+title: "Linear Panel Analysis"
+author: ["Finkel, Steven E."]
+date: 2008-01
+publication: "Academic Press"
+
+format:
+  html:
+    toc: false
+---
+
+Chapter 29 in Handbook of Longitudinal Research: Design, Measurement, and Analysis, edited by Scott Menard. Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Longitudinal research is a broad field in which substantial advances have been made over the past decade. Unlike many of the existing books that only address the analysis of information. The Handbook of Longitudinal Research covers design and measurement as well as the data analysis.
+
+Designed for use by a wide-ranging audience, this Handbook not only includes perspective on the methodological and data analysis problems in longitudinal research but it also includes contributors' data sets that enable readers who lack sophisticated statistics skills to move from theories about longitudinal data into practice.
+:::

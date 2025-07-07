@@ -1,0 +1,23 @@
+---
+title: "The Grapevine Effect in Sensitive Data Collection: Examining Response Patterns in Support for Violent Extremism"
+author: ["McCauley, John", "Steven E. Finkel", "Michael Neureiter", "Christopher Belasco"]
+date: 2020-09-25
+publication: "Political Science Research and Methods"
+categories:
+  - '<a href="papers/mccauley_et_al_grapevine_2020.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.1017/psrm.2020.34" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+This study presents a pattern overlooked in previous research on measuring sensitive political outcomes: over the course of data collection, responses tend to shift in the direction of support for the local incumbent power. We suggest that, whereas earlier responses are largely devoid of this social desirability bias, word of the research spreads across enumeration areas, and individuals interviewed later in the process alter their responses out of fear of retribution for inappropriate answers. We document the pattern using original data from two surveys on support for violent extremism conducted in three different countries in the Sahel region of Africa. We rule out a host of alternative explanations and further confirm that the pattern can arise not just with overt survey measures but even with covert, experimental ones. We then demonstrate the same pattern using out-of-sample data from a separate well-known study. The findings offer a cautionary note to both conventional and experimental approaches to measuring sensitive attitudes.
+:::
+
+[Download PDF](papers/mccauley_et_al_grapevine_2020.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.1017/psrm.2020.34){.btn .btn-outline-success target="_blank"}

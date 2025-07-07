@@ -1,0 +1,53 @@
+---
+title: "Publications"
+toc: false
+listing:
+  - id: books
+    contents: "books/*.qmd"
+    type: default
+    sort: 
+      - "date desc"
+      - "title asc"
+    date-format: long
+    page-size: 10
+    categories: false
+    sort-ui: [title, date]
+    filter-ui: false
+    fields: [title, publication, author, date, categories]
+    image-align: right
+
+  - id: articles_book_chapters
+    contents: "publications/*.qmd"
+    type: default
+    sort: 
+      - "date desc"
+      - "title asc"
+    date-format: long
+    page-size: 10
+    categories: false
+    sort-ui: [title, date]
+    filter-ui: false
+    fields: [title, publication, author, date, categories]
+    image-align: right
+format: 
+  html: 
+    page-layout: full
+title-block-banner: false
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/listing-default.css">
+resources:
+  - ../assets/listing-default.css
+---
+
+<br>
+
+## **Books**
+
+::: {#books}
+:::
+
+## **Articles and Book Chapters**
+
+::: {#articles_book_chapters}
+:::

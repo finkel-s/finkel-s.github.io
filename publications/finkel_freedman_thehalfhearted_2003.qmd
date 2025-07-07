@@ -1,0 +1,18 @@
+---
+title: "The Half-Hearted Rise: Voter Turnout in the 2000 Election"
+author: ["Finkel, Steven E.", "Paul Freedman"]
+date: 2003-09-30
+publication: "Stanford University Press"
+
+format:
+  html:
+    toc: false
+---
+
+Chapter 10 in "Models of Voting in Presidential Elections: The 2000 U.S. Election", edited by Herbert F. Weisberg and Clyde Wilcox. Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Models of Voting in Presidential Elections offers a comprehensive scholarly examination of the determinants of voter participation and vote choice at play in the 2000 presidential election. Unlike other books that focus exclusively on the drama and unusual circumstances of the 2000 election, this account examines larger issues surrounding the election and its outcome, asking why an election that traditional forecasting models predicted would provide a strong and clear victory for one side was ultimately so close.
+:::

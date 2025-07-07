@@ -1,0 +1,23 @@
+---
+title: "Reassessing Ideological Bias in Campaign Participation"
+author: ["Finkel, Steven E.", "Gregory Trevor"]
+date: 1986-12
+publication: "Political Behavior"
+categories:
+  - '<a href="papers/finkel_trevor_reassessingideologicabias_1986.pdf" target="_blank">PDF</a>'
+  - '<a href="https://www.jstor.org/stable/586076" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Until 1964, ideological conservatives tended to participate in presidential campaign activities at higher rates than liberals. Since then, Beck and Jennings (1980, 1984) have shown the variable nature of the participation-ideology relationship, arguing that ideologically extreme candidates have successfully mobilized their followers in particular elections. In this paper, we explain the "anomaly" of the 1980 election in which strong liberals participated at higher rates despite a very strong conservative on the Republican side. Using data collected over time in 1980 by the University of Michigan's Center for Political Studies (CPS/NES), we broaden the Beck-Jennings model to include participation during the primary season and hypothesize that mobilization of ideological groups may result from ideological candidates and the competitiveness or closeness of a nomination contest. We find that the ideological candidate model explains general election participation to a significant degree, while competitiveness considerations are more important for mobilization during the primaries.
+:::
+
+[Download PDF](papers/finkel_trevor_reassessingideologicabias_1986.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://www.jstor.org/stable/586076){.btn .btn-outline-success target="_blank"}

@@ -1,0 +1,22 @@
+---
+title: "In Defense of the ‘Wide’ Rational Choice Model of Collective Political Action"
+author: ["Finkel, Steven E."]
+date: 2008-01-15
+publication: "VS Verlag für Sozialwissenschaften Wiesbaden"
+categories:
+  - '<a href="https://doi.org/10.1007/978-3-531-90866-3_2" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+In Rational Choice: Theoretische Analysen und empirische Resultate, edited by A. Diekmann, K. Eichner, P. Schmidt, and T. Voss. Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+The logic of individual (non)-participation in collective action such as political protest or revolution, derived from Mancur Olson’s seminal exposition (1965), is well known. In large groups, each individual reasons first that his or her participation will have little marginal impact on the likelihood that collective action would be successful. Further, individuals who do not participate cannot normally be denied the benefits of the “public goods”, e.g. a change in regime or public policy, which successful collective action can provide. As a result, rational individuals will prefer to abstain or “free-ride” on the efforts of others, reasoning that abstention will bring the same expected benefits as participation without any of the potentially severe personal, legal and opportunity costs involved in protest behavior.
+:::
+
+[View at Journal Website](https://doi.org/10.1007/978-3-531-90866-3_2){.btn .btn-outline-success target="_blank"}

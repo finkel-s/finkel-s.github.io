@@ -1,0 +1,23 @@
+---
+title: "Can Democracy Be Taught?"
+author: ["Finkel, Steven E."]
+date: 2003-10
+publication: "Journal of Democracy"
+categories:
+  - '<a href="papers/finkel_candemocracybetaugth_2003.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.1353/jod.2003.0073" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+This paper examines the effects of adult civic education programs on political participation, civic competence, and support for democratic values in three developing democracies, the Dominican Republic, Poland and South Africa. I show that participation in civic education programs conducted by NGOs in each country had meaningful impact on local-level political participation in all three countries, and modest impact on individuals' knowledge, efficacy and support for values such as political tolerance. The effects of the programs were sharply increased when individuals were trained more frequently and with more active, participatory teaching methods. The results have important implications regarding the extent to which democratic political orientations can be "engineered" through civics training conducted by civil society groups, as well as important policy implications regarding how such programs should best be structured and implemented in practice.
+:::
+
+[Download PDF](papers/finkel_candemocracybetaugth_2003.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.1353/jod.2003.0073){.btn .btn-outline-success target="_blank"}

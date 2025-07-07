@@ -1,0 +1,22 @@
+---
+title: "Causal Analysis with Panel Data"
+author: ["Finkel, Steven E."]
+date: 1995-01
+publication: "SAGE Publications, Inc."
+categories:
+  - '<a href="https://doi.org/10.4135/9781412983594" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Panel data — information gathered from the same individuals or units at several different points in time — are commonly used in the social sciences to test theories of individual and social change. This book highlights the developments in this technique in a range of disciplines and analytic traditions.
+:::
+
+[View at Journal Website](https://doi.org/10.4135/9781412983594){.btn .btn-outline-success target="_blank"}

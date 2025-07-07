@@ -1,0 +1,23 @@
+---
+title: "Socialist Values and the Development of Democratic Support in the Former East Germany"
+author: ["Finkel, Steven E.", "Stan Humphries", "Karl-Dieter Opp"]
+date: 2001-10
+publication: "International Political Science Review"
+categories:
+  - '<a href="papers/finkel_et_al_socialistvalues_2001.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.1177/0192512101022004004" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Through the use of a three-wave panel study of citizens of the former East German city of Leipzig, the article explores the changes in the relationship between socialist values and democratic support over time. It finds that the direct effect of socialist values on democratic satisfaction declines substantially from the 1993-96 portion of the panel study to the 1996-98 period. As individuals acquire more experience with the democratic system, they appear to assess the system less in terms of its relation to socialism and the previous regime, and more in terms of current economic and political performance. Moreover, evaluations of the democratic system themselves appear to influence the individuals' adherence to socialist values throughout the time spanned by the panel studies; in fact, the article shows that there is little direct effect of socialist values on system support by 1998, once the reverse causal process is taken into account. The results are discussed in terms of their implications for democratic development in the former East Germany, and for more general theories and models of the democratization process.
+:::
+
+[Download PDF](papers/finkel_et_al_socialistvalues_2001.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.1177/0192512101022004004){.btn .btn-outline-success target="_blank"}

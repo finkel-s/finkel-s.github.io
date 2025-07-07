@@ -1,0 +1,24 @@
+---
+title: "Exporting Democracy: Does It Work?"
+author: ["Seligson, Mitchell A.", "Steven E. Finkel", "Aníbal Pérez-Liñán"]
+date: 2009-07
+publication: "Cambridge University Press"
+categories:
+  - '<a href="https://doi.org/10.1017/CBO9780511809262.011" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Chapter 10 in Is Democracy Exportable?, edited by Zoltan Barany and Robert G. Moser. Published in {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+The chapters in this book are focused on two broad themes. First, should democracy be promoted? Second, how should democracy be promoted? This paper asks and attempts to answer a third question: Does democracy promotion work? In many ways, this is really the prior question, because if democracies cannot be promoted, if their emergence, consolidation and breakdown are entirely random, or follow a pattern that cannot be altered by human intervention, then the prior questions are, after all, moot.
+
+In the field of democracy studies, there is perhaps no more controversial and unsettled question than that of how democracies emerge, consolidate and breakdown. The literature is vast, growing in important ways with each passing month. Consider, for example, the role of economic development, just one of the many factors that have been thought to be important for the emergence and/or stability of democracy. The classical literature dates back to Lipset, who found empirical support for the notion that higher levels of economic development were strongly linked to the transition from dictatorship to democracy (Lipset 1959). Over the years some scholars confirmed this finding, whereas others refuted it. By the mid 1990s, however, larger databases with more sophisticated statistical techniques seemed to demonstrate that Lipset was indeed correct (Lewis-Beck and Burkhart 1994; Muller 1997).
+:::
+
+[View at Journal Website](https://doi.org/10.1017/CBO9780511809262.011){.btn .btn-outline-success target="_blank"}

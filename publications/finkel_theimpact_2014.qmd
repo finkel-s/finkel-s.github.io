@@ -1,0 +1,22 @@
+---
+title: "The Impact of Adult Civic Education Programs in Developing Democracies"
+author: ["Finkel, Steven E."]
+date: 2014-08-05
+publication: "Public Administration and Development"
+categories:
+  - '<a href="https://doi.org/10.1002/pad.1678" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Are individuals in emerging democracies more likely to embrace democratic values, to learn basic knowledge about political processes, and to engage in politics in response to donor-sponsored civic education programmes? After more than a decade of civic education evaluations, it is a good time to take stock of what we have learned about the impacts of these efforts to strengthen democratic political culture in developing democracies. This article describes four US Agency for International Development-sponsored evaluations that have been conducted since the late 1990s, summarizes their most important findings, and discusses the lessons learned. I show that civic education can have meaningful and relatively long-lasting effects in terms of increasing political information, increasing feelings of empowerment, and mobilizing individuals, even in contexts beset by political and ethnic violence. However, these interventions are much less likely to affect ‘deep-seated’ democratic values such as political tolerance, support, and trust. Moreover, the size of the effects depends critically on how the programmes are designed, the kinds of pedagogical methods employed, and the quality of the trainers. I conclude with a discussion of current developments in the field.
+:::
+
+[View at Journal Website](https://doi.org/10.1002/pad.1678){.btn .btn-outline-success target="_blank"}

@@ -1,0 +1,22 @@
+---
+title: "The Effects of U.S. Foreign Assistance on Democracy Building, 1990-2003"
+author: ["Finkel, Steven E.", "Aníbal Pérez-Liñán", "Mitchell A. Seligson"]
+date: 2007-04
+publication: "World Politics"
+categories:
+  - '<a href="https://www.jstor.org/stable/40060164" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Democracy promotion has been an explicit doctrine of U.S. foreign policy since the end of the cold war. Between 1990 and 2003 resources for democracy programs increased by over 500 percent. Has this policy worked? Prior research has been inconclusive, relying either on case studies or on quantitative efforts that have not distinguished overall foreign assistance from democracy promotion. The authors answer this question using a new data set that includes program information for 165 countries for the years 1990-2003. The analysis distinguishes between direct and indirect causal mechanisms and employs a variety of statistical models that allow the authors to control for the unique democratization trend in each country when assessing causal effects, as well as for the potential endogeneity of U.S. democracy assistance. The analysis shows that democracy assistance does indeed have a significant impact.
+:::
+
+[View at Journal Website](https://www.jstor.org/stable/40060164){.btn .btn-outline-success target="_blank"}

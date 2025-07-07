@@ -1,0 +1,23 @@
+---
+title: "The Effects of Participation on Political Efficacy and Political Support: Evidence from a West German Panel"
+author: ["Finkel, Steven E."]
+date: 1987-05
+publication: "The Journal of Politics"
+categories:
+  - '<a href="papers/finkel_effectsparticipationefficacy_1987.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.2307/2131308" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+This paper explores the effects of four modes of political participation--voting, campaigning, peaceful protest, and aggressive behavior--on two fundamental attitudes, political efficacy and regime support. Theories of democratic participation argue that positive effects should be seen for at least the first three modes, while little is known about the effects of political violence. Using longitudinal data from the mid-1970s in West Germany, it becomes apparent that these modes of participation have vastly different effects on these political orientations. Voting is found to influence regime support in a positive fashion, while campaign activities influence feelings of political efficacy. Peaceful protest has little effect on either attitude, and aggressive behavior has strong negative effects on regime support. The results are discussed in light of theories of democracy which predict developmental effects of political activity, and in light of previous research which investigates these effects in other countries and in other contexts.
+:::
+
+[Download PDF](papers/finkel_effectsparticipationefficacy_1987.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.2307/2131308){.btn .btn-outline-success target="_blank"}

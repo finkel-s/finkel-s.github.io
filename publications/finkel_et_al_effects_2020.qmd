@@ -1,0 +1,22 @@
+---
+title: "Effects of U.S. Foreign Assistance on Democracy Building, 1990-2014: An Update"
+author: ["Finkel, Steven E.", "Aníbal Pérez-Liñán", "Michael Neureiter", "Chris A. Belasco"]
+date: 2020-06-01
+publication: " University of Notre Dame"
+categories:
+  - '<a href="https://doi.org/10.7274/26125801.v1" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+This paper updates our earlier work on the impact of US foreign assistance on democratic outcomes in recipient countries using newly available USAID Foreign Aid Explorer data covering the 2001–2014 period, as well as new outcome measures derived from Varieties of Democracy (V-Dem) data. Building on the theoretical and empirical framework established in our previous study and in subsequent work in the field, we estimate: a) the effect of overall USAID Democracy, Human Rights, and Governance (DRG) expenditures on general indices of democracy, b) changes in the effects of DRG expenditures after 2001, and c) the conditions that moderate the impact of DRG funding at the country level in the contemporary era. We find that the effect of DRG expenditures decreased dramatically in the 2002–2014 period, relative to the modest effect shown in the previous study for the period immediately following the end of the Cold War. However, DRG aid remains effective in the current era under favorable conditions. Further analysis demonstrates important conditional effects related to patterns of DRG investment, such that aid has greater impact when levels of security assistance are low (indicating competing priorities) and when prior DRG investment is low (indicating diminishing returns). In addition, DRG is more effective at intermediate levels of democratization and less so in contexts of democratic backsliding.
+:::
+
+[View at Journal Website](https://doi.org/10.7274/26125801.v1){.btn .btn-outline-success target="_blank"}

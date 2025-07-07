@@ -1,0 +1,22 @@
+---
+title: "Cross-Lagged Models"
+author: ["Finkel, Steven E."]
+date: 2003-12-15
+publication: "SAGE Publications"
+categories:
+  - '<a href="https://doi.org/10.4135/9781412950589.n202" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+In The SAGE Encyclopedia of Social Science Research Methods, edited by M. S. Lewis-Beck, A. Bryman, and T. Futing Liao. Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+This Encyclopedia provides readers with authoritative essays on virtually all social science methods topics, quantitative and qualitative, by an international collection of experts. Organized alphabetically, the Encyclopedia of Social Science Research Methods covers research terms ranging from different methodological approaches to epistemological issues and specific statistical techniques.
+:::
+
+[View at Journal Website](https://doi.org/10.4135/9781412950589.n202){.btn .btn-outline-success target="_blank"}

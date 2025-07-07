@@ -1,0 +1,23 @@
+---
+title: "Party Identification and Party Enrollment: The Difference and the Consequences"
+author: ["Finkel, Steven E.", "Howard A. Scarrow"]
+date: 1985-06
+publication: "The Journal of Politics"
+categories:
+  - '<a href="papers/finkel_scarrow_partyidentificationenrollment_1985.pdf" target="_blank">PDF</a>'
+  - '<a href="https://www.journals.uchicago.edu/doi/10.2307/2130899" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+This article concerns the relationship between voters' professed party identification as determined by opinion surveys and their officially recorded party enrollment in those states having enrollment systems. It presents evidence showing the extent to which these two measurements of partisanship do and do not coincide, and the reasons for the relationship. The evidence points strongly to the conclusion that party enrollment systems affect the way some voters perceive the nature of partisanship, or at least the way they respond to the party identification question, with the result that survey responses may fail to present an accurate picture of voter feelings of party allegiance or of political independence.
+:::
+
+[Download PDF](papers/finkel_scarrow_partyidentificationenrollment_1985.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://www.journals.uchicago.edu/doi/10.2307/2130899){.btn .btn-outline-success target="_blank"}

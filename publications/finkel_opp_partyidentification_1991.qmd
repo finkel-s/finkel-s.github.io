@@ -1,0 +1,23 @@
+---
+title: "Party Identification and Participation in Collective Political Action"
+author: ["Finkel, Steven E.", "Karl-Dieter Opp"]
+date: 1991-05
+publication: "The Journal of Politics"
+categories:
+  - '<a href="papers/finkel_opp_partyidentification_1991.pdf" target="_blank">PDF</a>'
+  - '<a href="https://www.journals.uchicago.edu/doi/10.2307/2131763" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Previous research has shown a strong relationship between party identification and participation in conventional political activities such as voting and campaign behavior. We extend these analyses by examining the effects of party identification and strength of identification on participation in both campaign activities and political protest. We hypothesize that party differences in these behaviors can be explained by the different levels of participatory incentives perceived by party identifiers and nonidentifiers. We specify a series of incentives derived from theories of collective action and measure them in a national and a community probability sample in the Federal Republic of Germany. The results show that the bivariate relationships between party identification and political participation can be explained largely through their mutual relationship with participatory incentives such as policy dissatisfaction, belief in the moral justifiability of various forms of behavior, and willingness to conform to the behavioral expectations of important others. The effects of identification with all parties on participation are substantially reduced once the effects of the incentives are taken into account, and for protest participation, only identification with the Greens shows a nonnegligible net impact.
+:::
+
+[Download PDF](papers/finkel_opp_partyidentification_1991.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://www.journals.uchicago.edu/doi/10.2307/2131763){.btn .btn-outline-success target="_blank"}

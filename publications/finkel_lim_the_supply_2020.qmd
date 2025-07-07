@@ -1,0 +1,22 @@
+---
+title: "The Supply and Demand Model of Civic Education: Evidence from A Field Experiment in the Democratic Republic of Congo"
+author: ["Finkel, Steven E.", "Junghyun Lim"]
+date: 2020-11-23
+publication: "Democratization"
+categories:
+  - '<a href="https://doi-org.pitt.idm.oclc.org/10.1080/13510347.2020.1843156" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Can democratic orientations and political participation in fragile democracies be fostered through civic education? Early evaluation work reported generally positive effects, though recent work has been more skeptical, with some studies reporting negative impacts of civic education on political engagement through highlighting the poor performance of incumbents and ongoing political processes. In this article, we report the results of a field experiment using an encouragement design to assess the Voter Opinion and Involvement through Civic Education (VOICE) programme conducted in 2010-2011 in the Democratic Republic of Congo. We adapt Bratton and Mattes’ (2007) “supply and demand” model of democratic support to the case of civic education, and derive hypotheses regarding expected impacts of VOICE on a series of democratic orientations and political participation. The results show that the VOICE programme had negative effects on support for the decentralization process and on individuals’ satisfaction with democracy in the DRC, and positive effects on non-electoral participation as well as on democratic orientations such as knowledge, efficacy, and political tolerance. We suggest that this pattern of effects has positive normative implications, and that civic education programmes continue to have the potential to deepen democratic engagement and values, even in fragile or backsliding democratic settings.
+:::
+
+[View at Journal Website](https://doi-org.pitt.idm.oclc.org/10.1080/13510347.2020.1843156){.btn .btn-outline-success target="_blank"}

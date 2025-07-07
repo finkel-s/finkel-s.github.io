@@ -1,0 +1,22 @@
+---
+title: "Has the New Aid for Trade Agenda been Export Effective? Evidence on the Impact of US AfT Allocations 1999-2008"
+author: ["Bearce, David H.", "Steven E. Finkel", "Anibal S. Pérez-Liñán", "Juan Rodríguez-Zepeda", "Lena Surzhko-Harned"]
+date: 2013-03-25
+publication: "International Studies Quarterly"
+categories:
+  - '<a href="https://doi.org/10.1111/isqu.12027" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+After a decade of Aid for Trade (AfT) allocations, we can now begin to assess whether this new development strategy has been effective. Focusing on the short-term goal of export growth, we examine whether AfT from the US government promoted exports within recipient national economies over the period 1999–2008. Our results suggest that a \( \$1 \) dollar increase in total US AfT has been associated with about a \( $69 \) increase in recipient exports 2 years later. We also show that the export effect of US AfT has not been confined to the US market and is driven primarily by exports to the rest of the world. In addition, we show that US AfT has been effective in reaching more needy countries as the substantive effect of US aid for trade has been larger in lesser-developed, landlocked, and more distant recipient countries.
+:::
+
+[View at Journal Website](https://doi.org/10.1111/isqu.12027){.btn .btn-outline-success target="_blank"}

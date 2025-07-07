@@ -1,0 +1,23 @@
+---
+title: "Civic Education in Post-Apartheid South Africa: Alternative Paths to the Development of Political Knowledge and Democratic Values"
+author: ["Finkel, Steven E.", "Howard R. Ernst"]
+date: 2005-05-11
+publication: "Political Psychology"
+categories:
+  - '<a href="papers/finkel_ernst_civiceducationpostapartheid_2005.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.1111/j.1467-9221.2005.00421.x" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Despite the proliferation of civic education programs in the emerging democracies of Latin America, Africa, and Eastern Europe, there have been few recent evaluations of the effectiveness of civics instruction in achieving changes in democratic orientations among student populations. We present findings from a study conducted in 1998 that examined the impact of democratic civic education among South African high school students. Using a battery of items to gauge democratic orientations, including measures of political knowledge, civic duty, tolerance, institutional trust, civic skills, and approval of legal forms of political participation, we find that civic education had the largest effects on political knowledge, with the magnitude of the effect being approximately twice as large as the recent Niemi and Junn (1998) finding for the United States. Exposure to civic education per se had weaker effects on democratic values and skills; for these orientations, what matters are specific factors related to the quality of instruction and the use of active pedagogical methods employed by civics instructors. Further, we find that civic education changed the structure of students’ orientations: a “democratic values” dimension coalesces more strongly, and in greater distinction, from a “political competence” dimension among students exposed to civic education than among those with no such training. We discuss the implications of the findings for our theoretical understanding of the role of civic education in fostering democratic attitudes, norms, and values, as well as the practical implications of the results for the implementation and funding of civic education programs in developing democracies in the future.
+:::
+
+[Download PDF](papers/finkel_ernst_civiceducationpostapartheid_2005.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.1111/j.1467-9221.2005.00421.x){.btn .btn-outline-success target="_blank"}

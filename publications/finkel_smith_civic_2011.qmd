@@ -1,0 +1,22 @@
+---
+title: "Civic Education, Political Discussion, and the Social Transmission of Democratic Knowledge and Values in a New Democracy: Kenya 2002"
+author: ["Finkel, Steven E.", "Amy Erica Smith"]
+date: 2011-01-13
+publication: "American Journal of Political Science"
+categories:
+  - '<a href="https://doi.org/10.1111/j.1540-5907.2010.00493.x" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+How does civic education affect the development of democratic political culture in new democracies? Using a unique three-wave panel data set from Kenya spanning the transitional democratic election of 2002, we posit a two-step process of the social transmission of democratic knowledge, norms, and values. Civic education first affected the knowledge, values, and participatory inclinations of individuals directly exposed to the Kenyan National Civic Education Programme (NCEP). These individuals became opinion leaders, communicating these new orientations to others within their social networks. Individuals who discussed others’ civic education experiences then showed significant growth in democratic knowledge and values, in many instances more than individuals with direct exposure to the program. We find further evidence of a “compensation effect,” such that the impact of civic education and post-civic education discussion was greater among Kenyans with less education and with lower levels of social integration.
+:::
+
+[View at Journal Website](https://doi.org/10.1111/j.1540-5907.2010.00493.x){.btn .btn-outline-success target="_blank"}

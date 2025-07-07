@@ -1,0 +1,22 @@
+---
+title: "Watering, not Transplanting: The Case for Democracy Assistance”"
+author: ["Finkel, Steven E.", "Aníbal Pérez Liñán", "Mitchell A. Seligson", "C. Neal Tate"]
+date: 2008-12-08
+publication: "APSA-Comparative Politics Newsletter"
+categories:
+  - '<a href="https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2021/04/2008_summer.pdf">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Can institutions be transplanted? At the purely formal level, the question seems trivial: institutions have traveled– via diffusion or imposition across polities for centuries. The key question, however, lies at a deeper level: do the behavioral effects of formal rules travel equally well across political systems?
+:::
+
+[View at Journal Website](https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2021/04/2008_summer.pdf){.btn .btn-outline-success target="_blank"}

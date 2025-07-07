@@ -1,0 +1,23 @@
+---
+title: "Candidates and Issues in the 1980 Campaign: The Ideological Connection"
+author: ["Finkel, Steven E.", "Helmut Norpoth"]
+date: 1984-03
+publication: "Political Behavior"
+categories:
+  - '<a href="papers/finkel_norpoth_candidatesandissues_1984.pdf" target="_blank">PDF</a>'
+  - '<a href="https://www.jstor.org/stable/586047" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+The notion that ideological perceptions in the mass public are shaped to some extent by elites and political candidates is widespread in the public opinion literature. However, there has been a lack of empirical research directly demonstrating the links between elites and the masses whose thinking they supposedly cue and structure. This paper attempts to show, through magnitude scale data collected over time in the 1980 campaign, the significant impact of political candidates in altering ideological perceptions of political stimuli. The chief "carrier" of ideology in 1980 is shown to be Ronald Reagan, whose strong issue stands and ideological label influenced perceptions of specific issues' ideological content. The findings are discussed in terms of both measurement problems in the ideology literature and more general theories of elite and environmental influences on mass political thought.
+:::
+
+[Download PDF](papers/finkel_norpoth_candidatesandissues_1984.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://www.jstor.org/stable/586047){.btn .btn-outline-success target="_blank"}

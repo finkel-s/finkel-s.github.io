@@ -1,0 +1,22 @@
+---
+title: "Causal Analysis With Panel Data"
+author: ["Finkel, Steven E."]
+date: 2020-01-15
+publication: "SAGE Publications Ltd"
+categories:
+  - '<a href="https://doi.org/10.4135/9781526421036825836" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+In SAGE Research Methods Foundations, edited by P. Atkinson, S. Delamont, A. Cernat, J. W. Sakshaug, and R. A. Williams. Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+This entry discusses the uses of panel data, a type of longitudinal data that consists of multiple waves of observation on multiple units, in estimating causal effects between variables. It begins with models for handling omitted variable bias, and in the process embeds panel analysis within the now-prevalent “potential outcomes” or “counterfactual” approach to causality in the social sciences. It then moves to models of reciprocal causality, drawing on a long literature in structural equation modeling as applied to longitudinal data. Finally, it discusses efforts at integrating panel models within each of these traditions into a general analytic framework.
+:::
+
+[View at Journal Website](https://doi.org/10.4135/9781526421036825836){.btn .btn-outline-success target="_blank"}

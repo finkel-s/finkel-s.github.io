@@ -1,0 +1,22 @@
+---
+title: "Civic Education and the Development of Civic Knowledge and Attitudes"
+author: ["Niemi, Richard G.", "Steven E. Finkel"]
+date: 2006-01-15
+publication: "Routledge"
+categories:
+  - '<a href="https://doi.org/10.4324/9780203926840" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Chapter 5 in Developing Cultures: Essays on Cultural Change, edited by Lawrence E. Harrison and Jerome Kagan. Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Developing Cultures: Essays on Cultural Change is a collection of 21 expert essays on the institutions that transmit cultural values from generation to generation. The essays are an outgrowth of a research project begun by Samuel Huntington and Larry Harrison in their widely discussed book Culture Matters the goal of which is guidelines for cultural change that can accelerate development in the Third World. The essays in this volume cover child rearing, several aspects of education, the world's major religions, the media, political leadership, and development projects.
+:::
+
+[View at Journal Website](https://doi.org/10.4324/9780203926840){.btn .btn-outline-success target="_blank"}

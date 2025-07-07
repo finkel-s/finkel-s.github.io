@@ -1,0 +1,23 @@
+---
+title: "Crime Victimization Increases Turnout: Evidence from Individual-Level Administrative Panel Data"
+author: ["Sønderskov, Kim Mannemar", "Peter Thisted Dinesen", "Steven E. Finkel", "Kasper M. Hansen"]
+date: 2020-06-17
+publication: "British Journal of Political Science"
+categories:
+  - '<a href="papers/sonderskov_et_al_crimevictimization_2020.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.1017/S0007123420000162" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+What are the consequences of being the victim of crime for political participation? Previous studies report mixed results with respect to voter turnout, in contrast to the positive effects found for other indicators of political engagement. However, previous turnout studies have failed to differentiate between violent and non-violent crime, and have relied on cross-sectional survey data that is prone to measurement biases and selection effects. This article addresses these shortcomings via a panel analysis of official registry data from Denmark recording individual-level turnout in two municipal elections (in 2009 and 2013) and victimization from violent and non-violent crime. It identifies the effect of victimization by comparing changes in turnout between the two elections for victims and two different counterfactual groups: non-victims in the general population, and individuals who were victimized after the 2013 election. The results show that victimization from violent crime increases turnout by 2 to 3 percentage points. The study further demonstrates a large negative between-individual effect of victimization, suggesting that previous studies have been marred by severe selection bias.
+:::
+
+[Download PDF](papers/sonderskov_et_al_crimevictimization_2020.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.1017/S0007123420000162){.btn .btn-outline-success target="_blank"}

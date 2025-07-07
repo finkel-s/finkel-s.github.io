@@ -1,0 +1,67 @@
+/* css styles */
+
+.justify-text {
+  text-align: justify;
+}
+
+main.content .quarto-categories {
+  display: none;
+}
+
+div.quarto-post .listing-categories .listing-category {
+  visibility: hidden;
+  display: inline-block;
+  font-size: 0; /* hide inner text if needed */
+  margin-right: 0.5rem;
+}
+
+div.quarto-post .listing-categories .listing-category a {
+  visibility: visible;
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #6c757d;  /* match the original text color */
+  border: 1px solid #6c757d;  /* same as original */
+  border-radius: 4px;
+  background: transparent;
+  box-sizing: border-box;
+  font-family: var(--bs-body-font-family); /* use Bootstrap/Quarto body font */
+  line-height: 1.25;
+  height: auto;
+  width: auto;
+  margin-right: -6px;
+margin-bottom: 4px;
+}
+
+div.quarto-post .listing-categories .listing-category a:hover {
+  background-color: rgba(255, 255, 255, 0.05); /* subtle hover effect */
+  border: 1px solid #00bc8c;
+  color: #00bc8c;
+  text-decoration: none;
+}
+
+.listing-title {
+  font-size: 1.1rem;     /* or try 1rem, 0.95rem, etc. */
+  font-weight: 600;      /* optional: reduce boldness */
+  line-height: 1.4;
+}
+
+a.link-dark,
+a.link-dark:visited,
+a.link-dark:focus,
+a.link-dark:active {
+  text-decoration: none;
+  color: var(--bs-body-color); /* use your base color here */
+}
+
+a.link-dark:hover {
+  color: #00bc8c;               /* any color you want on hover */
+}
+
+/* styles.css */
+.forthcoming .listing-date {
+  display: none;
+}
+

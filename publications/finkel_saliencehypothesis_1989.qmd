@@ -1,0 +1,23 @@
+---
+title: "The Effects of the 1980 and 1984 Campaigns on Mass Ideological Orientations: Testing the Salience Hypothesis"
+author: ["Steven E. Finkel"]
+date: 1989-09
+publication: "The Western Political Quarterly"
+categories:
+  - '<a href="papers/finkel_saliencehypothesis_1989.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.2307/448431" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Recent research has argued against the "salience hypothesis," which links changes in ideological orientations in the mass public to changes in the ideological intensity of the political environment. In this paper, I extend the testing of the salience hypothesis in three ways: by examining changes in ideological orientations within, as opposed to across, campaigns; by examining individual-level change with panel data from the 1980 election; and by broadening the variables tested to include measures of ideological recognition and awareness. The results show that at the aggregate level, the public changed very little in its ideological evaluations during these elections. At the individual level, though, changes were correlated to some extent with interest in the campaign and with educational attainment. The political environment appears to have a discernible, though limited, role in structuring mass ideological evaluations over time.
+:::
+
+[Download PDF](papers/finkel_saliencehypothesis_1989.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.2307/448431){.btn .btn-outline-success target="_blank"}

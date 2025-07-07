@@ -1,0 +1,47 @@
+---
+title: "Steven E. Finkel"
+image: headshot.JPG
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 13em
+  links:
+    - text: GitHub
+      href: https://github.com/finkel-s
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=nJTbi8oAAAAJ
+    - text: Email
+      href: mailto:finkel@pitt.edu
+---
+
+**Welcome!**
+
+::: justify-text
+Steven E. Finkel is the Daniel H. Wallace Professor of Political Science at the University of Pittsburgh. His areas of expertise include comparative political behavior, public opinion, democratization, and quantitative methods. He is the author of Causal Analysis with Panel Data (Sage Publications, 1995) as well as over 40 articles on political participation, voting behavior, and civic education in new and established democracies. He received his PhD in 1984 in political science from the State University of New York at Stony Brook, and taught at the University of Virginia for 21 years before joining the Pittsburgh faculty in 2005. He held a joint appointment as Professor of Applied Quantitative and Qualitative Methods from 2005-2008 at the Hertie School of Governance in Berlin, Germany. From 2001 to 2018 he served as Chair of the University of Pittsburgh's Department of Political Science.
+:::
+
+------------------------------------------------------------------------
+
+:::: {.columns}
+
+::: {.column width="40%"}
+### Interests
+
+-   Political behavior\
+-   Methodology\
+-   Civic Education
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="50%"}
+### Education
+
+**PhD in Political Science, 1984**\
+State University of New York at Stony Brook
+:::
+
+::::

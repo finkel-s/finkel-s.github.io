@@ -1,0 +1,23 @@
+---
+title: "Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-Democratic Effects of Partisan Polarization"
+author: ["Eroglu, Melek Hilal", "Steven E. Finkel", "Anja Neundorf", "Aykut Öztürk", "Ericka G. Rascón Ramírez"]
+date: 2025-04-22
+publication: "British Journal of Political Science"
+categories:
+  - '<a href="papers/eroglu_et_al_2025_choosing_democracy_over_party.pdf" target="_blank">PDF</a>'
+  - '<a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/choosing-democracy-over-party-how-civic-education-can-mitigate-the-antidemocratic-effects-of-partisan-polarization/6E80D12664C509E01DE8C67EE2AC00BE" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+How, can the negative effects of partisan polarization on democratic attitudes be mitigated? Can polarized individuals be persuaded to choose democracy over party, that is, support a candidate from an opposing party who upholds democratic norms when their co-partisan candidate fails to do so? We tested the effect of an online civic education intervention conducted on over 41,000 individuals in thirty-three countries that was designed to promote the choice of ‘democracy’ by emphasizing the benefits of democratic versus autocratic regimes. The results are striking: exposure to civic education messages significantly dampens the negative effect of partisan polarization on anti-democratic co-partisan candidate choice. Civic education also has a small positive effect on polarization itself, with further exploration showing that this is the result of increased evaluations of parties that uphold democratic norms and practices, resulting in greater differences between democratic and anti-democratic parties.
+:::
+
+[Download PDF](papers/eroglu_et_al_2025_choosing_democracy_over_party.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/choosing-democracy-over-party-how-civic-education-can-mitigate-the-antidemocratic-effects-of-partisan-polarization/6E80D12664C509E01DE8C67EE2AC00BE){.btn .btn-outline-success target="_blank"}

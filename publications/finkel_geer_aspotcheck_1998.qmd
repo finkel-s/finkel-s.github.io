@@ -1,0 +1,23 @@
+---
+title: "A Spot Check: Casting Doubt on the Demobilizing Effect of Attack Advertising"
+author: ["Finkel, Steven E.", "John G. Geer"]
+date: 1998-04
+publication: "American Journal of Political Science"
+categories:
+  - '<a href="papers/finkel_geer_aspotcheck_1998.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.2307/2991771" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Theory: Recent research contends that campaign "attack" advertising demobilizes the electorate, with particularly strong effects among political Independents. We dispute this claim, arguing instead that there is little reason to expect a powerful relationship between the tone of campaign advertising and voter turnout. Attack advertising may depress turnout among some voters, but it is likely to stimulate others by increasing their store of political information about the candidates, by increasing the degree to which they care about the election's outcome, or by increasing ties to their party's nominee. Hypothesis: The amount of a campaign's attack political advertising will be unrelated to overall voter turnout and to turnout among Independents. Methods: We employ a multi-method research design, combining a systematic content analysis of presidential campaign advertisements from 1960 to 1992 with aggregate data on turnout and the pooled National Election Studies survey data set. Correlational, linear, and logistic regression analyses are performed. Results: Controlling for other variables known to influence turnout, we find that attack advertising does not influence either overall turnout rates or individual self-reported votes. Similarly, we find no demobilizing effect for negative advertisements among Independent voters. Further survey analyses show that the effect of attack advertisements on voter withdrawal is weakest among individuals who are most highly attentive to the mass media, and thus who are most likely to have read about or seen the negativity of the campaign.
+:::
+
+[Download PDF](papers/finkel_geer_aspotcheck_1998.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.2307/2991771){.btn .btn-outline-success target="_blank"}

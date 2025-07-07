@@ -1,0 +1,11 @@
+---
+title: "Causal Inference with Panel Data: A Structural Modeling Approach"
+author: ["Quintana, Rafael", "Steven E. Finkel"]
+publication: "SAGE Publications, Inc."
+  
+format:
+  html:
+    toc: false
+---
+
+Under contract with {{< meta publication >}}, Sage University Paper Series on Quantitative Applications in the Social Sciences.

@@ -1,0 +1,23 @@
+---
+title: "Economic Crisis, Incumbent Performance and Regime Support: A Comparison of Longitudinal Data from West Germany and Costa Rica"
+author: ["Finkel, Steven E.", "Edward N. Muller", "Mitchell A. Seligson"]
+date: 1989-07
+publication: "British Journal of Political Science"
+categories:
+  - '<a href="papers/finkel_et_al_economiccrisis_1989.pdf" target="_blank">PDF</a>'
+  - '<a href="https://www.jstor.org/stable/193845" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+While much is known about the effects of the economy on the popularity and electoral fortunes of political leaders, political scientists know very little about how economic decline and political performance influence support for the political regime and the stability of democratic systems. We use three cross-national longitudinal surveys to address this issue: two collected in Costa Rica in the midst of a severe economic crisis in the late 1970s and early 1980s; and one in West Germany during the recession of the mid-1970s. We show that in both countries, overall support for the political regime remained extremely high during the economic decline, while satisfaction with incumbent performance fluctuated much more sharply. Moreover, at the individual level, changes in satisfaction with incumbent performance were only weakly related to changes in regime support. These results provide strong evidence suggesting that if democracies enter economic downturns with initially high levels of regime support, they will be able to withstand even severe, prolonged crises of economic performance.
+:::
+
+[Download PDF](papers/finkel_et_al_economiccrisis_1989.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://www.jstor.org/stable/193845){.btn .btn-outline-success target="_blank"}

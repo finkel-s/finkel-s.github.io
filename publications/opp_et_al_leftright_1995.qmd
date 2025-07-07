@@ -1,0 +1,18 @@
+---
+title: "Left-Right Ideology and Collective Political Action: A Comparative Analysis of Germany, Israel, and Peru"
+author: ["Opp, Karl-Dieter", "Steven E. Finkel", "Edward N. Muller", "Gadi Wolfsfeld", "Henry A. Dietz", "Jerrold D. Green"]
+date: 1995-04-26
+publication: "University of Minnesota Press"
+
+format:
+  html:
+    toc: false
+---
+
+Chapter 4 in "The Politics of Social Protest: Comparative Perspectives on States and Social Movements", edited by J. Craig Jenkins and Bert Klandermans. Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Bringing together celebrated scholars from diverse traditions and backgrounds, The Politics of Social Protest focuses on the reciprocal relationships among social movements, states, and political parties. The volume is organized around three key questions: Why do citizens resort to the often risky and demanding strategy of using disruptive protest when other channels of political intervention appear to be available? What is the relationship between social protest movements and systems of political representation? And what is the impact of the structure and development of the state on social movements themselves?
+:::

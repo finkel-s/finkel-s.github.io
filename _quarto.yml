@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Steven E. Finkel"
+  site-url: https://stevenfinkel.com
+  page-navigation: true
+  back-to-top-navigation: true
+  page-footer:
+    left: >-
+     &#169; 2025 Steven E. Finkel &#8729; Made with [Quarto](https://quarto.org)
+  
+    right: |
+      <a class="link-dark me-1" href="https://github.com/finkel-s" title="GitHub" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+      <a class="link-dark me-1" href="https://scholar.google.com/citations?hl=en&user=nJTbi8oAAAAJ" title="Google Scholar" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+      <a class="link-dark me-1" href="mailto:finkel@pitt.edu" title="Email" target="_blank" rel="noopener">
+        <i class="fas fa-envelope"></i>
+      </a>
+      
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+      - href: CV.qmd
+        text: CV
+
+format:
+  html:
+    anchor-sections: false
+    theme: 
+      light: flatly
+      dark: darkly
+    toggle: true
+    css: styles.css
+    toc: true
+    page-layout: full
+    include-in-header: "_includes/fa.html"

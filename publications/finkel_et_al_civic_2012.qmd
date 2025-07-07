@@ -1,0 +1,22 @@
+---
+title: "Civic Education and Democratic Backsliding in the Wake of Kenya’s Post-2007 Election Violence"
+author: ["Finkel, Steven E.", "Jeremy Horowitz", "Reynaldo T. Rojo-Mendoza"]
+date: 2012-01
+publication: "The Journal of Politics"
+categories:
+  - '<a href="https://www.journals.uchicago.edu/doi/abs/10.1017/S0022381611001162" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+This article examines two unexplored questions concerning the impact of civic education programs in emerging democracies: (1) whether such programs have longer-terms effects and (2) whether civic education can be effective under conditions of democratic “backsliding.” We investigate these questions in the context of a large-scale civic education program in Kenya just before the disputed 2007 election that sparked a wave of ethnic clashes and brought the country to the brink of civil war. Analysis of a survey of 1,800 “treatment” and 1,800 “control” individuals shows that the program had significant long-term effects on variables related to civic competence and engagement, with less consistent effects on democratic values. We also find that participants who subsequently were affected by the violence were less likely to adopt negative beliefs about Kenya’s political system, less likely to support the use of ethnic or political violence, and more likely to forgive those responsible for the post-election violence.
+:::
+
+[View at Journal Website](https://www.journals.uchicago.edu/doi/abs/10.1017/S0022381611001162){.btn .btn-outline-success target="_blank"}

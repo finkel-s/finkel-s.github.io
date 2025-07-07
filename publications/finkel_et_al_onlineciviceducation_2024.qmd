@@ -1,0 +1,23 @@
+---
+title: "Can Online Civic Education Induce Democratic Citizenship? Experimental Evidence from a New Democracy"
+author: ["Finkel, Steven E.", "Anja Neundorf",  "Ericka Rascón Ramírez"]
+date: 2024-04-08
+publication: "American Journal of Political Science"
+categories:
+  - '<a href="papers/finkel_et_al_onlineciviceducation_2024.pdf" target="_blank">PDF</a>'
+  - '<a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12765" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+How can democratic values and behavior be induced in new democracies? We designed and tested three original civic education interventions to answer this question, using Tunisia as a case study. Participants were recruited through Facebook and Instagram, where they were randomly assigned to either one of three treatment groups or a placebo. Two treatments were derived from prospect theory, emphasizing the gains of a democratic system or the losses of an autocratic system. A third treatment, derived from self-efficacy theory, provided practical information regarding participation in the upcoming 2019 elections. Our findings suggest that online civic education has a considerable effect on democratic citizenship, including a significant reduction in authoritarian nostalgia and increasing intended political behavior. We further find differences between the three treatments, with the loss and gain treatments having overall more consistent impact than self-efficacy, though the latter frame has notable effects on political efficacy and registration.
+:::
+
+[Download PDF](papers/finkel_et_al_onlineciviceducation_2024.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12765){.btn .btn-outline-success target="_blank"}

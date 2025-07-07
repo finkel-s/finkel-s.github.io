@@ -1,0 +1,23 @@
+---
+title: "Reciprocal Effects of Participation and Political Efficacy: A Panel Analysis"
+author: ["Finkel, Steven E."]
+date: 1985-11
+publication: "American Journal of Political Science"
+categories:
+  - '<a href="papers/finkel_reciprocaleffects_1985.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.2307/2111186" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+While there have been numerous empirical studies of the causal determinants of voting behavior and other acts of political participation, political scientists have virtually ignored the consequences of such activity for the individual. Recent democratic theory asserts that participation should have significant individual-level effects, a hypothesis which is empirically tested in this paper. The effects of electoral and campaign participation on political efficacy are estimated in the context of a nonrecursive longitudinal model using the SRC 1972-1974-1976 panel study. It is found that these forms of participation exert positive impact mainly on the "external" or system responsiveness dimension of efficacy, and that these effects hold after controlling for educational attainment. These findings illustrate that engaging in political action does influence certain political attitudes, a fact which should be taken into account through reciprocal effects models of political attitude and behavior. The specific effect of participation on "external" efficacy also has important system-level consequences, as electoral and campaign acts influence the distribution of support for the regime or regime norms.
+:::
+
+[Download PDF](papers/finkel_reciprocaleffects_1985.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.2307/2111186){.btn .btn-outline-success target="_blank"}

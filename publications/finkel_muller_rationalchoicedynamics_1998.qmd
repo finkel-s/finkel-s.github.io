@@ -1,0 +1,23 @@
+---
+title: "Rational Choice and the Dynamics of Collective Political Action: Evaluating Alternative Models with Panel Data"
+author: ["Finkel, Steven E.", "Edward N. Muller"]
+date: 1998-03
+publication: "American Political Science Review"
+categories:
+  - '<a href="papers/finkel_muller_rationalchoicedynamics_1998.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.2307/2585927" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Causal inference in research testing rational choice models of unconventional political behavior has been hampered by the inability to use perceptions of the costs and benefits of participation at a given time to predict behavior that necessarily occurred in the past and by ambiguities associated with analyzing behavioral intentions instead of actual participation. Using panel data collected on a national sample in West Germany between 1987 and 1989, we show that variables from a “collective interest” model measured in 1987—individuals' dissatisfaction with the provision of collective goods, beliefs that group actions can be successful, and beliefs in the importance of their own participation—predict subsequent participation in collective protest activities. Variables corresponding to the private “selective incentives” associated with protest are found to be less relevant. Furthermore, we find that engaging in protest changes many of the perceptions that influence future participation. We discuss the implications for theories of political mobilization.
+:::
+
+[Download PDF](papers/finkel_muller_rationalchoicedynamics_1998.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.2307/2585927){.btn .btn-outline-success target="_blank"}

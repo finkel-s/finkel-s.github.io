@@ -1,0 +1,23 @@
+---
+title: "Civic Education, Civil Society, and Political Mistrust in a Developing Democracy: The Case of the Dominican Republic"
+author: ["Finkel, Steven E.", "Christopher A. Sabatini", "Gwendolyn G. Bevis"]
+date: 2000-11
+publication: "World Development"
+categories:
+  - '<a href="papers/finkel_et_al_civiceducationsociety_2000.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.1016/S0305-750X(00)00067-X" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+The paper explores the effect of donor-supported civic education programs on levels of citizen trust in institutions in the Dominican Republic. Using attitudinal surveys of control and treatment groups the paper demonstrates that civic education had a direct, negative effect on participants’ levels of institutional trust, with the greatest negative effects on trust in governmental bodies such as the army and the judicial system. The paper argues that this stems from the type of groups that conduct civic education in democratizing countries, many of which are not politically or socially neutral. The paper concludes with a discussion of these findings for theories of democracy and civil society and for donor-supported civic education programs.
+:::
+
+[Download PDF](papers/finkel_et_al_civiceducationsociety_2000.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://doi.org/10.1016/S0305-750X(00)00067-X){.btn .btn-outline-success target="_blank"}

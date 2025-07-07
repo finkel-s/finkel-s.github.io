@@ -1,0 +1,23 @@
+---
+title: "Is there a marriage gap in politics?"
+author: ["Kingston, Paul William", "Steven E. Finkel"]
+date: 1987-02
+publication: "Journal of Marriage and Family"
+categories:
+  - '<a href="papers/kingston_finkel_marriage_1987.pdf" target="_blank">PDF</a>'
+  - '<a href="https://psycnet.apa.org/doi/10.2307/352669" target="_blank">Journal</a>'
+
+format:
+  html:
+    toc: false
+---
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+With 1984 national survey data, the authors test whether there is a "marriage gap" in politics—that is, does marital status affect political orientations and participation? Married and single persons consistently differ in their politics: the married were relatively inclined to Reagan, the Republican party, conservative self-identification, and conservative views on a number of issues. However, multivariate analyses indicate that marital status per se only modestly affects some dimensions of political orientation, including presidential vote. When various factors are controlled, the married have somewhat higher turnout rates than singles, but the latter are more inclined to political participation beyond the act of voting. The modest political effects of marital status do not appreciably differ by sex, age, or homeownership status.
+:::
+
+[Download PDF](papers/kingston_finkel_marriage_1987.pdf){.btn .btn-outline-success target="_blank"} [View at Journal Website](https://psycnet.apa.org/doi/10.2307/352669){.btn .btn-outline-success target="_blank"}

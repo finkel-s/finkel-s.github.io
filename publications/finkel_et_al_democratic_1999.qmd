@@ -1,0 +1,18 @@
+---
+title: "Democratic Values and Political Tolerance"
+author: ["Finkel, Steven E.", "Lee Sigelman", "Stan Humphries"]
+date: 1999-01-01
+publication: "Academic Press"
+
+format:
+  html:
+    toc: false
+---
+
+Chapter 5 in Measures of Political Attitudes (revised edition), edited by John P. Robinson, Phillip R. Shaver, and Lawrence S. Wrightsman. Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Measures of Political Attitudes provides political and social scientists with the necessary information to best measure political attitudes and data. Containing side-by-side comparisons of relevant measures, coverage includes political ideology, democratic values, political tolerance, racial-ethnic attitudes, political trust, party identification, and more. Information in each chapter includes a systematic review of reliability and validity evidence as well as placing the scales into a broad historical and research context.
+:::
