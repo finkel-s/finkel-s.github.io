@@ -1,6 +1,6 @@
 ---
 title: "Steven E. Finkel"
-image: headshot.JPG
+image: headshot.PNG
 toc: false
 about: 
   template: trestles
