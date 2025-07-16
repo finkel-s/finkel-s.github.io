@@ -70,16 +70,18 @@ a.link-dark:hover {
   display: none !important;
 }
 
-.quarto-listing-category {
-  word-break: break-word;
-  white-space: normal;
-}
-
-
 .quarto-listing-category .category a{
   visibility: hidden;
 }
 
+.quarto-listing-category a > span {
+  visibility: hidden;
+}
+
+.category-filter-item:has(span:contains("PDF")),
+.category-filter-item:has(span:contains("Journal")) {
+  display: none;
+}
 
 div.category[data-category*="<a"] {
   display: none;
@@ -90,6 +92,3 @@ div.category[data-category*="<a"] {
 #quarto-content.page-columns #quarto-margin-sidebar, #quarto-content.page-columns #quarto-sidebar {
   width: 300px;
 }
-
-
-
