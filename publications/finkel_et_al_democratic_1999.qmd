@@ -3,6 +3,8 @@ title: "Democratic Values and Political Tolerance"
 author: ["Finkel, Steven E.", "Lee Sigelman", "Stan Humphries"]
 date: 1999-01-01
 publication: "Academic Press"
+categories:
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

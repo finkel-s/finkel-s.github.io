@@ -6,7 +6,6 @@ website:
   title: "Steven E. Finkel"
   site-url: https://finkel-s.github.io/
   page-navigation: true
-  back-to-top-navigation: true
   page-footer:
     left: >-
      &#169; 2025 Steven E. Finkel &#8729; Made with [Quarto](https://quarto.org)
@@ -43,3 +42,4 @@ format:
     toc: true
     page-layout: full
     include-in-header: "_includes/fa.html"
+    

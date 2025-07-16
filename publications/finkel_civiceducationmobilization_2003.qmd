@@ -4,8 +4,9 @@ author: ["Finkel, Steven E."]
 date: 2003-01-23
 publication: "Journal of Politics"
 categories:
-  - '<a href="papers/finkel_civiceducationmobilization_2003.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_civiceducationmobilization_2003.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.1111/1468-2508.00160" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

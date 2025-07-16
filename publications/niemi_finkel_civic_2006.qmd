@@ -5,6 +5,7 @@ date: 2006-01-15
 publication: "Routledge"
 categories:
   - '<a href="https://doi.org/10.4324/9780203926840" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

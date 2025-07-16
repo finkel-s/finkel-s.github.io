@@ -4,8 +4,9 @@ author: ["Finkel, Steven E."]
 date: 1985-11
 publication: "American Journal of Political Science"
 categories:
-  - '<a href="papers/finkel_reciprocaleffects_1985.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_reciprocaleffects_1985.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.2307/2111186" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

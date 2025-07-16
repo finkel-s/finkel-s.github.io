@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "Edward N. Muller", "Mitchell A. Seligson"]
 date: 1989-07
 publication: "British Journal of Political Science"
 categories:
-  - '<a href="papers/finkel_et_al_economiccrisis_1989.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_et_al_economiccrisis_1989.pdf" target="_blank">PDF</a>'
   - '<a href="https://www.jstor.org/stable/193845" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

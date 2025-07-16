@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "Howard A. Scarrow"]
 date: 1985-06
 publication: "The Journal of Politics"
 categories:
-  - '<a href="papers/finkel_scarrow_partyidentificationenrollment_1985.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_scarrow_partyidentificationenrollment_1985.pdf" target="_blank">PDF</a>'
   - '<a href="https://www.journals.uchicago.edu/doi/10.2307/2130899" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

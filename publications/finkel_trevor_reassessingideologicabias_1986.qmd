@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "Gregory Trevor"]
 date: 1986-12
 publication: "Political Behavior"
 categories:
-  - '<a href="papers/finkel_trevor_reassessingideologicabias_1986.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_trevor_reassessingideologicabias_1986.pdf" target="_blank">PDF</a>'
   - '<a href="https://www.jstor.org/stable/586076" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

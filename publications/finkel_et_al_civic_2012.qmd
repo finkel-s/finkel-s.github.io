@@ -5,6 +5,7 @@ date: 2012-01
 publication: "The Journal of Politics"
 categories:
   - '<a href="https://www.journals.uchicago.edu/doi/abs/10.1017/S0022381611001162" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

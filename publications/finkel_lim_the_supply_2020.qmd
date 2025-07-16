@@ -5,6 +5,7 @@ date: 2020-11-23
 publication: "Democratization"
 categories:
   - '<a href="https://doi-org.pitt.idm.oclc.org/10.1080/13510347.2020.1843156" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "Christopher A. Sabatini", "Gwendolyn G. Bevis"]
 date: 2000-11
 publication: "World Development"
 categories:
-  - '<a href="papers/finkel_et_al_civiceducationsociety_2000.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_et_al_civiceducationsociety_2000.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.1016/S0305-750X(00)00067-X" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

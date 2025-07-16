@@ -4,8 +4,9 @@ author: ["Finkel, Steven E."]
 date: 2003-10
 publication: "Journal of Democracy"
 categories:
-  - '<a href="papers/finkel_candemocracybetaugth_2003.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_candemocracybetaugth_2003.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.1353/jod.2003.0073" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

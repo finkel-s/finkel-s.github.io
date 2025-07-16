@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "Anja Neundorf",  "Ericka Rascón Ramírez"]
 date: 2024-04-08
 publication: "American Journal of Political Science"
 categories:
-  - '<a href="papers/finkel_et_al_onlineciviceducation_2024.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_et_al_onlineciviceducation_2024.pdf" target="_blank">PDF</a>'
   - '<a href="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12765" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

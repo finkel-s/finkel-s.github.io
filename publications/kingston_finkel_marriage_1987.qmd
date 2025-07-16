@@ -4,8 +4,9 @@ author: ["Kingston, Paul William", "Steven E. Finkel"]
 date: 1987-02
 publication: "Journal of Marriage and Family"
 categories:
-  - '<a href="papers/kingston_finkel_marriage_1987.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/kingston_finkel_marriage_1987.pdf" target="_blank">PDF</a>'
   - '<a href="https://psycnet.apa.org/doi/10.2307/352669" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "Howard R. Ernst"]
 date: 2005-05-11
 publication: "Political Psychology"
 categories:
-  - '<a href="papers/finkel_ernst_civiceducationpostapartheid_2005.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_ernst_civiceducationpostapartheid_2005.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.1111/j.1467-9221.2005.00421.x" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

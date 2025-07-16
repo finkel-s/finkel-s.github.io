@@ -4,8 +4,9 @@ author: ["McCauley, John", "Steven E. Finkel", "Michael Neureiter", "Christopher
 date: 2020-09-25
 publication: "Political Science Research and Methods"
 categories:
-  - '<a href="papers/mccauley_et_al_grapevine_2020.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/mccauley_et_al_grapevine_2020.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.1017/psrm.2020.34" target="_blank">Journal</a>'
+  - "Democracy Promotion and Countering Violent Extremism"
 
 format:
   html:

@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "Helmut Norpoth"]
 date: 1984-03
 publication: "Political Behavior"
 categories:
-  - '<a href="papers/finkel_norpoth_candidatesandissues_1984.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_norpoth_candidatesandissues_1984.pdf" target="_blank">PDF</a>'
   - '<a href="https://www.jstor.org/stable/586047" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

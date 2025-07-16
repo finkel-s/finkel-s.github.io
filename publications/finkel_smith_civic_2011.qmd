@@ -5,6 +5,7 @@ date: 2011-01-13
 publication: "American Journal of Political Science"
 categories:
   - '<a href="https://doi.org/10.1111/j.1540-5907.2010.00493.x" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

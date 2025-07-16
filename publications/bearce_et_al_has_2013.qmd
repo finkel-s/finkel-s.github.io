@@ -5,6 +5,7 @@ date: 2013-03-25
 publication: "International Studies Quarterly"
 categories:
   - '<a href="https://doi.org/10.1111/isqu.12027" target="_blank">Journal</a>'
+  - "Democracy Promotion and Countering Violent Extremism"
 
 format:
   html:

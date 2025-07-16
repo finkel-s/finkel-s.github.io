@@ -3,6 +3,8 @@ title: "Political Tolerance and Civic Education in Developing Democracies"
 author: ["Finkel, Steven E."]
 date: 2006-04-03
 publication: "Lexington Books"
+categories:
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

@@ -4,8 +4,9 @@ author: ["Sønderskov, Kim Mannemar", "Peter Thisted Dinesen", "Steven E. Finkel
 date: 2020-06-17
 publication: "British Journal of Political Science"
 categories:
-  - '<a href="papers/sonderskov_et_al_crimevictimization_2020.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/sonderskov_et_al_crimevictimization_2020.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.1017/S0007123420000162" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

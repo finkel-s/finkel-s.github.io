@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "John G. Geer"]
 date: 1998-04
 publication: "American Journal of Political Science"
 categories:
-  - '<a href="papers/finkel_geer_aspotcheck_1998.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_geer_aspotcheck_1998.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.2307/2991771" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

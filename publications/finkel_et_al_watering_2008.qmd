@@ -5,6 +5,7 @@ date: 2008-12-08
 publication: "APSA-Comparative Politics Newsletter"
 categories:
   - '<a href="https://www.comparativepoliticsnewsletter.org/wp-content/uploads/2021/04/2008_summer.pdf">Journal</a>'
+  - "Democracy Promotion and Countering Violent Extremism"
 
 format:
   html:

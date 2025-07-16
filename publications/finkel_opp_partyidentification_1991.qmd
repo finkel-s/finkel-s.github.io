@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "Karl-Dieter Opp"]
 date: 1991-05
 publication: "The Journal of Politics"
 categories:
-  - '<a href="papers/finkel_opp_partyidentification_1991.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_opp_partyidentification_1991.pdf" target="_blank">PDF</a>'
   - '<a href="https://www.journals.uchicago.edu/doi/10.2307/2131763" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

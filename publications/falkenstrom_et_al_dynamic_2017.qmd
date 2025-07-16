@@ -4,8 +4,9 @@ author: ["Falkenström, Fredrik", "Steven E. Finkel", "Rolf Sandell", "Julian A.
 date: 2017-06
 publication: "Journal of Consulting and Clinical Psychology"
 categories:
-  - '<a href="papers/falkenstrom_et_al_dynamic_2017.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/falkenstrom_et_al_dynamic_2017.pdf" target="_blank">PDF</a>'
   - '<a href="https://psycnet.apa.org/doi/10.1037/ccp0000203" target="_blank">Journal</a>'
+  - "Analysis of Longitudinal Data and Political Methodology"
 
 format:
   html:

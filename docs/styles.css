@@ -4,6 +4,7 @@
   text-align: justify;
 }
 
+
 main.content .quarto-categories {
   display: none;
 }
@@ -11,7 +12,7 @@ main.content .quarto-categories {
 div.quarto-post .listing-categories .listing-category {
   visibility: hidden;
   display: inline-block;
-  font-size: 0; /* hide inner text if needed */
+  font-size: 0; 
   margin-right: 0.5rem;
 }
 
@@ -22,12 +23,12 @@ div.quarto-post .listing-categories .listing-category a {
   font-size: 0.65rem;
   text-transform: uppercase;
   text-decoration: none;
-  color: #6c757d;  /* match the original text color */
-  border: 1px solid #6c757d;  /* same as original */
+  color: #6c757d; 
+  border: 1px solid #6c757d;
   border-radius: 4px;
   background: transparent;
   box-sizing: border-box;
-  font-family: var(--bs-body-font-family); /* use Bootstrap/Quarto body font */
+  font-family: var(--bs-body-font-family);  
   line-height: 1.25;
   height: auto;
   width: auto;
@@ -36,15 +37,15 @@ margin-bottom: 4px;
 }
 
 div.quarto-post .listing-categories .listing-category a:hover {
-  background-color: rgba(255, 255, 255, 0.05); /* subtle hover effect */
+  background-color: rgba(255, 255, 255, 0.05); 
   border: 1px solid #00bc8c;
   color: #00bc8c;
   text-decoration: none;
 }
 
 .listing-title {
-  font-size: 1.1rem;     /* or try 1rem, 0.95rem, etc. */
-  font-weight: 600;      /* optional: reduce boldness */
+  font-size: 1.1rem;     
+  font-weight: 600;
   line-height: 1.4;
 }
 
@@ -53,15 +54,42 @@ a.link-dark:visited,
 a.link-dark:focus,
 a.link-dark:active {
   text-decoration: none;
-  color: var(--bs-body-color); /* use your base color here */
+  color: var(--bs-body-color); 
 }
 
 a.link-dark:hover {
-  color: #00bc8c;               /* any color you want on hover */
+  color: #00bc8c;               
 }
 
-/* styles.css */
+
 .forthcoming .listing-date {
   display: none;
 }
+
+.category-filter-item:has(a[href*="PDF"]) {
+  display: none !important;
+}
+
+.quarto-listing-category {
+  word-break: break-word;
+  white-space: normal;
+}
+
+
+.quarto-listing-category .category a{
+  visibility: hidden;
+}
+
+
+div.category[data-category*="<a"] {
+  display: none;
+}
+
+
+/* Increase width of sidebar filter panel */
+#quarto-content.page-columns #quarto-margin-sidebar, #quarto-content.page-columns #quarto-sidebar {
+  width: 300px;
+}
+
+
 

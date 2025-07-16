@@ -10,8 +10,7 @@ listing:
       - "title asc"
     date-format: long
     page-size: 10
-    categories: false
-    sort-ui: [title, date]
+    sort-ui: false
     filter-ui: false
     fields: [title, publication, author, date, categories]
     image-align: right
@@ -24,7 +23,7 @@ listing:
       - "title asc"
     date-format: long
     page-size: 10
-    categories: false
+    categories: true
     sort-ui: [title, date]
     filter-ui: false
     fields: [title, publication, author, date, categories]

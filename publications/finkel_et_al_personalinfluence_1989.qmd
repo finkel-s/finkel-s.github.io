@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "Edward N. Muller", "Karl-Dieter Opp"]
 date: 1989-09
 publication: "American Political Science Review"
 categories:
-  - '<a href="papers/finkel_et_al_personalinfluence_1989.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_et_al_personalinfluence_1989.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.2307/1962065" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

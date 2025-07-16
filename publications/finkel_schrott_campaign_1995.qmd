@@ -5,6 +5,7 @@ date: 1995-07
 publication: "British Journal of Political Science"
 categories:
   - '<a href="http://www.jstor.org/stable/194259" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

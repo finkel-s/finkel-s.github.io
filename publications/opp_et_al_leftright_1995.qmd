@@ -3,6 +3,8 @@ title: "Left-Right Ideology and Collective Political Action: A Comparative Analy
 author: ["Opp, Karl-Dieter", "Steven E. Finkel", "Edward N. Muller", "Gadi Wolfsfeld", "Henry A. Dietz", "Jerrold D. Green"]
 date: 1995-04-26
 publication: "University of Minnesota Press"
+categories:
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

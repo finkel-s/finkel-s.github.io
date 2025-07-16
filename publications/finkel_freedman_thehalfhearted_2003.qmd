@@ -3,6 +3,8 @@ title: "The Half-Hearted Rise: Voter Turnout in the 2000 Election"
 author: ["Finkel, Steven E.", "Paul Freedman"]
 date: 2003-09-30
 publication: "Stanford University Press"
+categories:
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

@@ -3,6 +3,8 @@ title: "Linear Panel Analysis"
 author: ["Finkel, Steven E."]
 date: 2008-01
 publication: "Academic Press"
+categories:
+  - "Analysis of Longitudinal Data and Political Methodology"
 
 format:
   html:

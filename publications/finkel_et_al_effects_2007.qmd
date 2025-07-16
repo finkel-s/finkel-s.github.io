@@ -5,6 +5,7 @@ date: 2007-04
 publication: "World Politics"
 categories:
   - '<a href="https://www.jstor.org/stable/40060164" target="_blank">Journal</a>'
+  - "Democracy Promotion and Countering Violent Extremism"
 
 format:
   html:

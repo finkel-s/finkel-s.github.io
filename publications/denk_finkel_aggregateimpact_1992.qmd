@@ -4,8 +4,9 @@ author: ["Denk, Charles E.", "Steven E. Finkel"]
 date: 1992-08
 publication: "American Journal of Political Science"
 categories:
-  - '<a href="papers/denk_finkel_aggregateimpact_1992.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/denk_finkel_aggregateimpact_1992.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.2307/2111591" target="_blank">Journal</a>'
+  - "Analysis of Longitudinal Data and Political Methodology"
 
 format:
   html:

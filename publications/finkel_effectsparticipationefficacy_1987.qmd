@@ -4,8 +4,9 @@ author: ["Finkel, Steven E."]
 date: 1987-05
 publication: "The Journal of Politics"
 categories:
-  - '<a href="papers/finkel_effectsparticipationefficacy_1987.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_effectsparticipationefficacy_1987.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.2307/2131308" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

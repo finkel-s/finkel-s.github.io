@@ -4,8 +4,9 @@ author: ["Steven E. Finkel"]
 date: 1989-09
 publication: "The Western Political Quarterly"
 categories:
-  - '<a href="papers/finkel_saliencehypothesis_1989.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_saliencehypothesis_1989.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.2307/448431" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

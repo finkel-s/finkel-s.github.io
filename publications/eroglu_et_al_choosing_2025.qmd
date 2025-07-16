@@ -4,8 +4,9 @@ author: ["Eroglu, Melek Hilal", "Steven E. Finkel", "Anja Neundorf", "Aykut Özt
 date: 2025-04-22
 publication: "British Journal of Political Science"
 categories:
-  - '<a href="papers/eroglu_et_al_2025_choosing_democracy_over_party.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/eroglu_et_al_2025_choosing_democracy_over_party.pdf" target="_blank">PDF</a>'
   - '<a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/choosing-democracy-over-party-how-civic-education-can-mitigate-the-antidemocratic-effects-of-partisan-polarization/6E80D12664C509E01DE8C67EE2AC00BE" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

@@ -5,6 +5,7 @@ date: 2021-11-04
 publication: "Terrorism and Political Violence"
 categories:
   - '<a href="https://doi-org.pitt.idm.oclc.org/10.1080/09546553.2021.1987893" target="_blank">Journal</a>'
+  - "Democracy Promotion and Countering Violent Extremism"
 
 format:
   html:

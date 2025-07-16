@@ -5,6 +5,7 @@ date: 2020-06-01
 publication: " University of Notre Dame"
 categories:
   - '<a href="https://doi.org/10.7274/26125801.v1" target="_blank">Journal</a>'
+  - "Democracy Promotion and Countering Violent Extremism"
 
 format:
   html:

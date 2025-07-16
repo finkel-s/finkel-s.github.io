@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "Edward N. Muller"]
 date: 1998-03
 publication: "American Political Science Review"
 categories:
-  - '<a href="papers/finkel_muller_rationalchoicedynamics_1998.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_muller_rationalchoicedynamics_1998.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.2307/2585927" target="_blank">Journal</a>'
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

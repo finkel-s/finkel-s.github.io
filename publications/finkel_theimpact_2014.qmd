@@ -5,6 +5,7 @@ date: 2014-08-05
 publication: "Public Administration and Development"
 categories:
   - '<a href="https://doi.org/10.1002/pad.1678" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

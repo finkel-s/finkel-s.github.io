@@ -5,6 +5,7 @@ date: 2011-05-16
 publication: "World Bank Publications"
 categories:
   - '<a href="http://hdl.handle.net/10986/2296" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:

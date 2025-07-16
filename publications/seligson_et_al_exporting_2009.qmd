@@ -5,6 +5,7 @@ date: 2009-07
 publication: "Cambridge University Press"
 categories:
   - '<a href="https://doi.org/10.1017/CBO9780511809262.011" target="_blank">Journal</a>'
+  - "Democracy Promotion and Countering Violent Extremism"
 
 format:
   html:

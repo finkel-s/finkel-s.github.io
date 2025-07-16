@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "John F. McCauley", "Michael Neureiter", "Chris A.
 date: 2020-09-27
 publication: "Political Psychology"
 categories:
-  - '<a href="papers/finkel_et_al_community_2021.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_et_al_community_2021.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.1111/pops.12692" target="_blank">Journal</a>'
+  - "Democracy Promotion and Countering Violent Extremism"
 
 format:
   html:

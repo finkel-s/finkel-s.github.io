@@ -3,6 +3,8 @@ title: "Relative Deprivation and Related Psychological Theories of Civil Violenc
 author: ["Steven E. Finkel", "James B. Rule"]
 date: 1986-08-01
 publication: "JAI Press"
+categories:
+  - "Political Participation, Protest and Electoral Behavior"
 
 format:
   html:

@@ -5,6 +5,7 @@ date: 2008-04-03
 publication: "Journal of Democracy"
 categories:
   - '<a href="https://muse.jhu.edu/article/235505" target="_blank">Journal</a>'
+  - "Democracy Promotion and Countering Violent Extremism"
 
 format:
   html:

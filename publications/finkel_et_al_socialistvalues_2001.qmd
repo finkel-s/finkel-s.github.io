@@ -4,8 +4,9 @@ author: ["Finkel, Steven E.", "Stan Humphries", "Karl-Dieter Opp"]
 date: 2001-10
 publication: "International Political Science Review"
 categories:
-  - '<a href="papers/finkel_et_al_socialistvalues_2001.pdf" target="_blank">PDF</a>'
+  - '<a href="publications/papers/finkel_et_al_socialistvalues_2001.pdf" target="_blank">PDF</a>'
   - '<a href="https://doi.org/10.1177/0192512101022004004" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
 
 format:
   html:
