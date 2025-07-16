@@ -23,25 +23,19 @@ Steven E. Finkel is the Daniel H. Wallace Professor of Political Science at the 
 
 ------------------------------------------------------------------------
 
-:::: {.columns}
+### Research Interests
 
-::: {.column width="40%"}
-### Interests
-
--   Political behavior\
--   Methodology\
--   Civic Education
+::: justify-text
+- [Civic Education, Democratic Values and Political Support](publications.html#category=Civic%20Education%2C%20Democratic%20Values%20and%20Political%20Support)
+- [Political Participation, Protest and Electoral Behavior](publications.html#category=Political%20Participation%2C%20Protest%20and%20Electoral%20Behavior)
+- [Democracy Promotion and Countering Violent Extremism](publications.html#category=Democracy%20Promotion%20and%20Countering%20Violent%20Extremism)
+- [Analysis of Longitudinal Data and Political Methodology](publications.html#category=Analysis%20of%20Longitudinal%20Data%20and%20Political%20Methodology)
 :::
 
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
+------------------------------------------------------------------------
 
-::: {.column width="50%"}
-### Education
+### Teaching Interests
 
-**PhD in Political Science, 1984**\
-State University of New York at Stony Brook
-:::
-
+::: justify-text
+I have taught courses in comparative political behavior, longitudinal data analysis and other topics in social science methodology. The materials for all of these classes can be found <a href="https://finkel-s.github.io/teaching.html">here</a> or under the Teaching link above.
 ::::
