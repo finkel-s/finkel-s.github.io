@@ -26,10 +26,12 @@ Steven E. Finkel is the Daniel H. Wallace Professor of Political Science at the 
 ### Research Interests
 
 ::: justify-text
-- [Civic Education, Democratic Values and Political Support](publications.html#category=Civic%20Education%2C%20Democratic%20Values%20and%20Political%20Support)
-- [Political Participation, Protest and Electoral Behavior](publications.html#category=Political%20Participation%2C%20Protest%20and%20Electoral%20Behavior)
-- [Democracy Promotion and Countering Violent Extremism](publications.html#category=Democracy%20Promotion%20and%20Countering%20Violent%20Extremism)
-- [Analysis of Longitudinal Data and Political Methodology](publications.html#category=Analysis%20of%20Longitudinal%20Data%20and%20Political%20Methodology)
+<ul>
+  <li><a href="publications.html#category=Civic%20Education%2C%20Democratic%20Values%20and%20Political%20Support">Civic Education, Democratic Values and Political Support</a></li>
+  <li><a href="publications.html#category=Political%20Participation%2C%20Protest%20and%20Electoral%20Behavior">Political Participation, Protest and Electoral Behavior</a></li>
+  <li><a href="publications.html#category=Democracy%20Promotion%20and%20Countering%20Violent%20Extremism">Democracy Promotion and Countering Violent Extremism</a></li>
+  <li><a href="publications.html#category=Analysis%20of%20Longitudinal%20Data%20and%20Political%20Methodology">Analysis of Longitudinal Data and Political Methodology</a></li>
+</ul>
 :::
 
 ------------------------------------------------------------------------

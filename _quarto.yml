@@ -42,4 +42,10 @@ format:
     toc: true
     page-layout: full
     include-in-header: "_includes/fa.html"
+
+resources:
+  - assets/listing-overrides.js
+header-includes: |
+  <script src="assets/listing-overrides.js"></script>
+      
     
