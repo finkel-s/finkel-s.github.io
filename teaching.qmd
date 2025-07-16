@@ -17,13 +17,10 @@ resources:
 
 Below you find the list of courses I taught - click the link and check the course material:
 
-| Year.Semester.Quarter | Course title                                                               | Level    | Institution | Material                      |
-|-----------|----------------------------|-----------|-----------|-----------|
-| --                    | Advanced Methods: Longitudinal Analysis                                    | Graduate | --          | [website](#){target="_blank"} |
-| --                    | Comparative Political Behavior                                             | Graduate | --          | [website](#){target="_blank"} |
-| --                    | Introduction to Quantitative and Qualitative Methods                       | Graduate | --          | [website](#){target="_blank"} |
-| --                    | American Political Behavior                                                | Graduate | --          | [website](#){target="_blank"} |
-| --                    | Regression Analysis                                                        | Graduate | --          | [website](#){target="_blank"} |
-| --                    | Maximum Likelihood Estimation: Categorical and Limited Dependent Variables | Graduate | --          | [website](#){target="_blank"} |
-
-## 
+| Course title                                                               | Level         | Material                                                                       |
+|-----------------------|-------------|-------------|
+| Comparative Political Behavior                                             | Graduate      | [Website](#){target="_blank"}                                                  |
+| Analysis of Panel Data                                                     | Graduate      | [Website](https://finkel-s.github.io/analysis_of_panel_data/){target="_blank"} |
+| Regression Analysis                                                        | Graduate      | [Website](#){target="_blank"}                                                  |
+| Maximum Likelihood Estimation: Categorical and Limited Dependent Variables | Graduate      | [Website](#){target="_blank"}                                                  |
+| Research Methods in Political Science                                      | Undergraduate | [Website](#){target="_blank"}                                                  |
