@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+exclude:
+  - "publications/publication_template.qmd"
 
 website:
   title: "Steven E. Finkel"
