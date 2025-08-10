@@ -8,3 +8,9 @@
 .quarto
 
 /.quarto/
+
+# Ignore the publication template
+publication_template
+publication_template.*
+instructions_new_publication
+instructions_new_publication.*
