@@ -231,7 +231,7 @@ function filterListingCategory(category) {
         list.filter(function (item) {
           const itemValues = item.values();
           if (itemValues.categories !== null) {
-            const categories = itemValues.categories;
+            const categories = itemValues.categories.split(",");
             return categories.includes(category);
           } else {
             return false;
