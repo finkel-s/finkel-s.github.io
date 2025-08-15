@@ -38,7 +38,7 @@ I am the author of *Causal Analysis with Panel Data* (Sage Publications, 1995) a
 
 ------------------------------------------------------------------------
 
-### Teaching Interests
+### Teaching
 
 ::: justify-text
 I have taught courses in comparative political behavior, longitudinal data analysis and other topics in social science methodology. The materials for all of these classes can be found <a href="https://finkel-s.github.io/teaching.html">here</a> or under the Teaching link above.
