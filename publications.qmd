@@ -31,7 +31,6 @@ listing:
 format: 
   html: 
     page-layout: full
-    include-in-header: google-verify.html
 title-block-banner: false
 
 header-includes: >
