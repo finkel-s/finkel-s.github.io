@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Steven E. Finkel"
-  site-url: www.stevenfinkel.com
+  site-url: https://finkel-s.github.io/
   page-navigation: true
   page-footer:
     left: >-

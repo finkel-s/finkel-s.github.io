@@ -1,1 +1,1 @@
-Sitemap: www.stevenfinkel.com/sitemap.xml
+Sitemap: https://finkel-s.github.io/sitemap.xml
