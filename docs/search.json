@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Below you find the list of courses I taught - click the link and check the course material:\n\n\n\nCourse title\nLevel\nMaterial\n\n\n\n\nAnalysis of Panel Data\nGraduate\nWebsite\n\n\nRegression Analysis\nGraduate\nWebsite\n\n\nMaximum Likelihood Estimation: Categorical and Limited Dependent Variables\nGraduate\nWebsite\n\n\nResearch Methods in Political Science\nUndergraduate\nWebsite\n\n\nComparative Political Behavior\nGraduate\nSyllabus"
-  },
-  {
     "objectID": "publications.html#books",
     "href": "publications.html#books",
     "title": "Publications",
@@ -404,5 +397,12 @@
     "title": "Crime Victimization Increases Turnout: Evidence from Individual-Level Administrative Panel Data",
     "section": "",
     "text": "Published by British Journal of Political Science.\nAbstract:\n\nWhat are the consequences of being the victim of crime for political participation? Previous studies report mixed results with respect to voter turnout, in contrast to the positive effects found for other indicators of political engagement. However, previous turnout studies have failed to differentiate between violent and non-violent crime, and have relied on cross-sectional survey data that is prone to measurement biases and selection effects. This article addresses these shortcomings via a panel analysis of official registry data from Denmark recording individual-level turnout in two municipal elections (in 2009 and 2013) and victimization from violent and non-violent crime. It identifies the effect of victimization by comparing changes in turnout between the two elections for victims and two different counterfactual groups: non-victims in the general population, and individuals who were victimized after the 2013 election. The results show that victimization from violent crime increases turnout by 2 to 3 percentage points. The study further demonstrates a large negative between-individual effect of victimization, suggesting that previous studies have been marred by severe selection bias.\n\nDownload PDF View at Journal Website"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Below you find the list of courses I taught - click the link and check the course material:\n\n\n\nCourse title\nLevel\nMaterial\n\n\n\n\nAnalysis of Panel Data\nGraduate\nWebsite\n\n\nRegression Analysis\nGraduate\nWebsite\n\n\nMaximum Likelihood Estimation: Categorical and Limited Dependent Variables\nGraduate\nWebsite\n\n\nResearch Methods in Political Science\nUndergraduate\nWebsite\n\n\nComparative Political Behavior\nGraduate\nSyllabus"
   }
 ]
