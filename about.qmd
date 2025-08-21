@@ -29,8 +29,8 @@ I am the author of *Causal Analysis with Panel Data* (Sage Publications, 1995) a
 
 ::: justify-text
 <ul>
-  <li><a href="publications.html#category=Civic%20Education%2C%20Democratic%20Values%20and%20Political%20Support">Civic Education, Democratic Values and Political Support</a></li>
-  <li><a href="publications.html#category=Political%20Participation%2C%20Protest%20and%20Electoral%20Behavior">Political Participation, Protest and Electoral Behavior</a></li>
+  <li><a href="publications.html#category=Civic%20Education,%20Democratic%20Values%20and%20Political%20Support">Civic Education, Democratic Values and Political Support</a></li>
+  <li><a href="publications.html#category=Political%20Participation,%20Protest%20and%20Electoral%20Behavior">Political Participation, Protest and Electoral Behavior</a></li>
   <li><a href="publications.html#category=Democracy%20Promotion%20and%20Countering%20Violent%20Extremism">Democracy Promotion and Countering Violent Extremism</a></li>
   <li><a href="publications.html#category=Analysis%20of%20Longitudinal%20Data%20and%20Political%20Methodology">Analysis of Longitudinal Data and Political Methodology</a></li>
 </ul>
