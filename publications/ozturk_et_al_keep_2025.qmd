@@ -1,0 +1,39 @@
+---
+# REQUIRED: Paper title
+title: "Keep Positive and Defend Democracy: Framing Democratic Messages Under Authoritarianism"
+
+# REQUIRED: Authors in Chicago style inside brackets
+author: ["Ozturk, Aykut", "Steven Finkel", "Anja Neundorf", "Erica G. Rascón Ramírez"] 
+
+# REQUIRED: Publication date in YYYY-MM-DD format
+date: 2025-11-15
+
+# REQUIRED: Journal or publication name
+publication: "European Journal of Political Research"
+
+# CATEGORIES: 
+# 1. Link to PDF stored locally in `publications/papers/`
+# 2. Link to official journal page
+# 3. List of relevant keywords or topics
+categories:
+  - '<a href="publications/papers/ozturk_ et_al_keep_2025.pdf" target="_blank">PDF</a>'
+  #- '<a href="[JOURNAL URL]" target="_blank">Journal</a>'
+  - "Civic Education, Democratic Values and Political Support"
+
+format:
+  html:
+    toc: false
+---
+
+
+Published by {{< meta publication >}}.
+
+**Abstract:**
+
+::: justify-text
+Building popular support for democracy is especially necessary in countries ruled by authoritarian regimes. Can educational interventions promote democratic support in these countries and influence how citizens evaluate their country’s political regime? To answer these questions, we conducted two online experiments in Turkey comparing the effects of two pro-democratic educational interventions, a positive frame emphasizing gains from democratic institutions and a negative frame highlighting the losses under authoritarian regimes. Both treatment frames were successful at building democratic demand. However, only participants exposed to the pro-democracy messages with a positive frame took important additional cognitive steps, decreasing their evaluations of Turkey’s democratic supply and, therefore, becoming less likely to vote for the parties aligned with the autocratic regime. We offer a reference points theory to explain this divergence. Overall, our research makes significant contributions to the literature on democracy promotion and democratic support among ordinary citizens.
+:::
+
+# BUTTON LINKS
+[Download PDF](papers/ozturk_ et_al_keep_2025.pdf){.btn .btn-outline-success target="_blank"} 
+

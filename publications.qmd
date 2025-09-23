@@ -28,6 +28,19 @@ listing:
     filter-ui: false
     fields: [title, publication, author, date, categories]
     image-align: right
+    
+  - id: working_papers
+    contents: "working_papers/*.qmd"
+    type: default
+    sort: 
+      - "date desc"
+      - "title asc"
+    date-format: long
+    page-size: 10
+    sort-ui: false
+    filter-ui: false
+    fields: [title, publication, author, date, categories]
+    image-align: right
 format: 
   html: 
     page-layout: full
@@ -49,4 +62,9 @@ resources:
 ## **Articles and Book Chapters**
 
 ::: {#articles_book_chapters}
+:::
+
+## **Working Papers**
+
+::: {#working_papers}
 :::

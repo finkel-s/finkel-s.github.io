@@ -13,4 +13,4 @@ resources:
 
 <br>
 
-<iframe src="files/Finkel.CV.6-2025.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="files/Finkel.CV.pdf" width="100%" height="800px" style="border: none;"></iframe>

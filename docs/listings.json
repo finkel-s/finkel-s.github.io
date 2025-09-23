@@ -3,6 +3,7 @@
     "listing": "/publications.html",
     "items": [
       "/books/finkel_causal_1995.html",
+      "/publications/ozturk_et_al_keep_2025.html",
       "/publications/eroglu_et_al_choosing_2025.html",
       "/publications/finkel_et_al_onlineciviceducation_2024.html",
       "/publications/finkel_et_al_where_2021.html",
@@ -55,7 +56,9 @@
       "/publications/finkel_rule_relative_1986.html",
       "/publications/finkel_reciprocaleffects_1985.html",
       "/publications/finkel_scarrow_partyidentificationenrollment_1985.html",
-      "/publications/finkel_norpoth_candidatesandissues_1984.html"
+      "/publications/finkel_norpoth_candidatesandissues_1984.html",
+      "/working_papers/han_et_al_onlinegendered_2025.html",
+      "/working_papers/han_et_al_asymmetries_2025.html"
     ]
   }
 ]

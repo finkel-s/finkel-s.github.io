@@ -1,12 +1,10 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - CNAME
 
 website:
   title: "Steven E. Finkel"
-  site-url: https://www.stevenfinkel.com
+  site-url: https://finkel-s.github.io/
   page-navigation: true
   page-footer:
     left: >-

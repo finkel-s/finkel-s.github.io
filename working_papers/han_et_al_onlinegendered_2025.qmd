@@ -1,0 +1,33 @@
+---
+# REQUIRED: Paper title
+title: "Online Gendered Violence and Visibility in Electoral Autocracies:
+Evidence from Parliamentary and Local Elections in Türkiye"
+
+# REQUIRED: Authors in Chicago style inside brackets
+author: ["Han, Jungmin", "Müge Finkel", "Steven Finkel", "Firat Duruşan", "Erdem Yörük"] 
+
+# REQUIRED: Publication date in YYYY-MM-DD format
+date: 2025-09-01
+
+
+
+# CATEGORIES: 
+# 1. Link to PDF stored locally in `publications/papers/`
+# 2. Link to official journal page
+# 3. List of relevant keywords or topics
+categories:
+  - '<a href="working_papers/papers/han_et_al_onlinegendered_2025.pdf" target="_blank">PDF</a>'
+  - "Online Violence Against Women in Politics"
+
+format:
+  html:
+    toc: false
+---
+
+**Abstract:**
+
+::: justify-text
+Online platforms have become indispensable tools for political candidates to gain visibility, particularly for women in electoral autocracies who often lack access to traditional networks, party hierarchies, and media platforms. We argue that online visibility, while a resource for women candidates, disproportionately exposes them to online violence that functions as a mechanism of political control, reinforcing patriarchal exclusion from the political sphere. Our analysis draws on nearly four million tweets directed at 1,834 candidates across the 2023 parliamentary and 2024 local election campaigns in Türkiye, providing a rare opportunity to observe how these dynamics unfold at both the national and subnational levels. We find that while online visibility increases abuse for all candidates, the effect is markedly stronger for women. Moreover, women are disproportionately targeted across diverse types of violence,including ridicule, sexualized insults, physical threats, and religious or ethnic hate speech.
+:::
+
+[Download PDF](papers/han_et_al_onlinegendered_2025.pdf){.btn .btn-outline-success target="_blank"} 

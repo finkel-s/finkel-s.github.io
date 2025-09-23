@@ -18,7 +18,7 @@ resources:
 Below you find the list of courses I taught - click the link and check the course material:
 
 | Course title                                                               | Level         | Material                                                                                   |
-|----------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------|
+|--------------------------|---------------|--------------------------------|
 | Analysis of Panel Data                                                     | Graduate      | [Website](https://finkel-s.github.io/analysis_of_panel_data/){target="_blank"}             |
 | Regression Analysis                                                        | Graduate      | [Website](https://finkel-s.github.io/regression_analysis/){target="_blank"}                |
 | Maximum Likelihood Estimation: Categorical and Limited Dependent Variables | Graduate      | [Website](https://finkel-s.github.io/maximum_likelihood/){target="_blank"}                 |

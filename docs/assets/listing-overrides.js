@@ -13,21 +13,11 @@ window.addEventListener("DOMContentLoaded", function () {
               const categories = itemValues.categories;
               return categories.includes(category);
             } else {
-              return false; // <- minimal fix: don't reference an undefined variable
+              return false;
             }
           });
         }
       }
     }
   };
-});
-
-// minimal: apply filter if URL has #category=... (works on paste/load)
-window.addEventListener("load", function () {
-  if (!location.hash) return;
-  const params = new URLSearchParams(location.hash.slice(1));
-  const raw = params.get("category");
-  if (!raw) return;
-  const decoded = decodeURIComponent(raw).replace(/\+/g, " ");
-  window.filterListingCategory(decoded);
 });

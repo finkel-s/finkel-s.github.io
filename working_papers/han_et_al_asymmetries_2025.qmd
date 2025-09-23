@@ -1,0 +1,32 @@
+---
+# REQUIRED: Paper title
+title: "Asymmetries of Vulnerability: How Race and Party Shape Online Violence Targeting Women Candidates in the 2024 U.S. Congressional Election"
+
+# REQUIRED: Authors in Chicago style inside brackets
+author: ["Han, Jungmin", "Müge Finkel", "Dhanaraj Thakur", "Steven Finkel", "Erdem Yörük", "Firat Duruşan"] 
+
+# REQUIRED: Publication date in YYYY-MM-DD format
+date: 2025-05-01
+
+# CATEGORIES: 
+# 1. Link to PDF stored locally in `publications/papers/`
+# 2. Link to official journal page
+# 3. List of relevant keywords or topics
+categories:
+  - '<a href="working_papers/papers/han_et_al_asymmetries_2025.pdf" target="_blank">PDF</a>'
+  - "Online Violence Against Women in Politics"
+
+format:
+  html:
+    toc: false
+---
+
+
+**Abstract:**
+
+::: justify-text
+The widespread adoption of interactive technologies and social media platforms has transformed the political landscape, initially promising to democratize public discourse and enhance participation among marginalized groups, including women. However, rather than equalizing opportunities, these platforms have increasingly become sites of online violence, disproportionately targeting women politicians. In this study, we argue that the digital abuse faced by female political candidates is not merely a reflection of their gender alone but a product of the intersection between gender, race, and partisan identity. Specifically, women of color affiliated with the Democratic Party are particularly vulnerable to online violence due to their symbolic representation of progressive change, while Republican white women also face heightened hostility linked to their association with traditional gender norms. To test this argument, we analyze over 800,000 social media posts targeting candidates in the 2024 U.S. Congressional elections, using a large language model to detect and categorize offensive and hate speech. Our findings reveal that Democratic women of color experience significantly higher rates of online political violence compared to their white or Republican counterparts. These results underscore the need for an intersectional approach to understanding digital political violence, highlighting how the combination of gender, race, and party affiliation shapes the unique vulnerabilities of women in politics.
+:::
+
+[Download PDF](papers/han_et_al_asymmetries_2025.pdf){.btn .btn-outline-success target="_blank"} 
+
