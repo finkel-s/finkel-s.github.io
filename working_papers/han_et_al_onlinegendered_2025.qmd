@@ -9,8 +9,6 @@ author: ["Han, Jungmin", "Müge Finkel", "Steven Finkel", "Firat Duruşan", "Erd
 # REQUIRED: Publication date in YYYY-MM-DD format
 date: 2025-09-01
 
-
-
 # CATEGORIES: 
 # 1. Link to PDF stored locally in `publications/papers/`
 # 2. Link to official journal page
