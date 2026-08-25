@@ -1,0 +1,34 @@
+---
+# REQUIRED: Paper title
+title: "Controlling for Time-Varying Confounding in the Longitudinal Fixed-Effects Model: A Latent Variable Approach"
+
+# REQUIRED: Authors in Chicago style inside brackets
+author: ["Yu, Baeksan", "Steven Finkel"] 
+
+
+# REQUIRED: Publication date in YYYY-MM-DD format
+date: 2026-03-27
+publication: "Methodology"
+
+# CATEGORIES: 
+# 1. Link to PDF stored locally in `publications/papers/`
+# 2. Link to official journal page
+# 3. List of relevant keywords or topics
+categories:
+  - '<a href="publications/papers/yu_finkel_controlling_2026.pdf" target="_blank">PDF</a>'
+  - '<a href="https://doi.org/10.5964/meth.16875" target="_blank">Journal</a>'
+  - "Analysis of Longitudinal Data and Political Methodology"
+
+format:
+  html:
+    toc: false
+---
+
+**Abstract:**
+
+::: justify-text
+Fixed-effects regression models are commonly used in longitudinal studies as a means to estimate causal effects while controlling for unobserved time-invariant confounders. However, unobserved time-varying confounding remains potentially problematic, and identifying and measuring such confounders can be resource-intensive and costly. We propose the Time-Varying Confounding Structural Equation Model (TVC-SEM), a simple longitudinal model that builds on previous “common factor” models and which can serve as a robustness check for the assumption of no unobserved time-varying confounding in the fixed-effects approach. We posit a model with a latent autoregressive variable Zit, which represents the combined influence of both time-invariant and time-varying unobservables, and which is linked to the independent and dependent variables over time. Through Monte Carlo simulations and analyses of data from the Early Childhood Longitudinal Studies Kindergarten cohort (ECLS-K) and the Rural Substance Abuse and Violence Project (RSVP), we show that, under most conditions, TVC-SEM provides less biased estimates than several variants of the traditional fixed-effects model. Our proposed approach offers applied researchers a practical check for gauging the extent to which the fixed-effects assumption of no time-varying confounding may produce bias in the estimation of causal effects.
+:::
+
+[Download PDF](papers/yu_finkel_controlling_2026.pdf){.btn .btn-outline-success target="_blank"} 
+[View at Journal Website](https://doi.org/10.5964/meth.16875){.btn .btn-outline-success target="_blank"}
