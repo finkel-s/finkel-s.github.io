@@ -5,9 +5,10 @@ title: "Controlling for Time-Varying Confounding in the Longitudinal Fixed-Effec
 # REQUIRED: Authors in Chicago style inside brackets
 author: ["Yu, Baeksan", "Steven Finkel"] 
 
-
 # REQUIRED: Publication date in YYYY-MM-DD format
 date: 2026-03-27
+
+# REQUIRED: Journal or publication name
 publication: "Methodology"
 
 # CATEGORIES: 
@@ -23,6 +24,10 @@ format:
   html:
     toc: false
 ---
+
+
+Published by {{< meta publication >}}.
+
 
 **Abstract:**
 
